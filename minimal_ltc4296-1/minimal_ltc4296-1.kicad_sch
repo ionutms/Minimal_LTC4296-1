@@ -5921,6 +5921,18 @@
 		(uuid "0666f686-35e0-48d8-847d-ca82f84c58ed")
 	)
 	(junction
+		(at 248.92 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07d0d173-664f-4a43-879a-42c72077bc88")
+	)
+	(junction
+		(at 236.22 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0978e43e-660d-4ae4-9a92-b7eeff1610ad")
+	)
+	(junction
 		(at 236.22 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5933,6 +5945,18 @@
 		(uuid "0e619217-9add-4174-b63c-7a4737195247")
 	)
 	(junction
+		(at 248.92 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e730216-489e-4405-9b65-7a59e767c621")
+	)
+	(junction
+		(at 279.4 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "129ccf5c-6b2a-4217-89c1-836c76b67334")
+	)
+	(junction
 		(at 165.1 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5943,6 +5967,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1789e459-cdf0-42b8-923e-d131aba02799")
+	)
+	(junction
+		(at 236.22 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f7f7f65-f2db-4d52-86bc-b645673a8bd9")
 	)
 	(junction
 		(at 248.92 160.02)
@@ -5987,6 +6017,12 @@
 		(uuid "39927d62-21d2-424e-9fe2-f8534b5d21d5")
 	)
 	(junction
+		(at 259.08 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "417989da-15d1-458d-9ec4-571dd2135b97")
+	)
+	(junction
 		(at 260.35 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5997,6 +6033,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47cbe4d9-0f5e-40ab-b022-a098058c2d62")
+	)
+	(junction
+		(at 279.4 73.66)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d98f7f3-3d3b-4c54-9409-c6d522853668")
 	)
 	(junction
 		(at 246.38 223.52)
@@ -6015,12 +6057,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57a7c521-07c5-4a05-9431-59e2d653e2e5")
-	)
-	(junction
-		(at 210.82 243.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6052c35d-8f8e-45ee-989b-683bf1bf896d")
 	)
 	(junction
 		(at 139.7 109.22)
@@ -6065,6 +6101,12 @@
 		(uuid "944f9efb-8fe6-4214-bfe0-dbf58375dd14")
 	)
 	(junction
+		(at 236.22 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97f77d2a-9aba-4cee-b31b-b4c8dc3cb05d")
+	)
+	(junction
 		(at 200.66 243.84)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6075,6 +6117,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0e56176-afdc-497d-ad80-08fdfb0c0e16")
+	)
+	(junction
+		(at 259.08 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1ecd43e-e6dd-4e1d-9908-854f4cd5b7ed")
 	)
 	(junction
 		(at 279.4 139.7)
@@ -6089,16 +6137,46 @@
 		(uuid "a7f98250-d280-4f66-aaa7-57caaee14111")
 	)
 	(junction
+		(at 279.4 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad06fab3-4510-4e0b-9e51-7c9db740e972")
+	)
+	(junction
 		(at 152.4 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aebdf358-8230-478c-ab18-851a9e988554")
 	)
 	(junction
+		(at 279.4 119.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aec48165-cf39-43c3-9f27-ed9f4cd5d792")
+	)
+	(junction
 		(at 259.08 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b75114bd-ea39-4429-beac-7b1792ed240d")
+	)
+	(junction
+		(at 279.4 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc489fbb-4b41-456e-b42e-fde15b9754c4")
+	)
+	(junction
+		(at 248.92 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7e0f295-bcb9-46f2-b182-91f3136df0bf")
+	)
+	(junction
+		(at 279.4 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cae559ae-8294-40d1-b7df-e9a4485c5ad0")
 	)
 	(junction
 		(at 241.3 218.44)
@@ -6129,6 +6207,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1681ec8-b9ba-49ca-93b9-4a87b7b63f31")
+	)
+	(junction
+		(at 259.08 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1f34783-0fbe-415b-a5c2-0260e3b0f6bc")
 	)
 	(junction
 		(at 248.92 137.16)
@@ -6254,6 +6338,26 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 73.66) (xy 243.84 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a2483a6-e11d-4cac-91a3-1d2860f36491")
+	)
+	(wire
+		(pts
+			(xy 220.98 119.38) (xy 243.84 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b0b4d6d-0626-428d-969e-f7af7244039f")
+	)
+	(wire
+		(pts
 			(xy 152.4 147.32) (xy 152.4 149.86)
 		)
 		(stroke
@@ -6264,6 +6368,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 119.38) (xy 248.92 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7a1b3b-12d0-4531-a4d9-5bc1244b6a58")
+	)
+	(wire
+		(pts
 			(xy 236.22 193.04) (xy 236.22 203.2)
 		)
 		(stroke
@@ -6271,6 +6385,16 @@
 			(type default)
 		)
 		(uuid "0dd0fe74-b4fc-43ff-837b-bba9933f6600")
+	)
+	(wire
+		(pts
+			(xy 276.86 96.52) (xy 279.4 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e1671d0-3c19-472e-b858-1f40533402c2")
 	)
 	(wire
 		(pts
@@ -6394,6 +6518,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 119.38) (xy 279.4 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b5ff8dc-aafe-4b36-ba47-780f80e1833a")
+	)
+	(wire
+		(pts
 			(xy 162.56 162.56) (xy 165.1 162.56)
 		)
 		(stroke
@@ -6444,6 +6578,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 99.06) (xy 259.08 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28dd0b58-f7ff-43a0-a133-ec0183e5f2a4")
+	)
+	(wire
+		(pts
 			(xy 152.4 149.86) (xy 153.67 149.86)
 		)
 		(stroke
@@ -6484,6 +6628,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 96.52) (xy 248.92 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2de32fc8-a8fe-423a-828f-ff5db3cc442b")
+	)
+	(wire
+		(pts
 			(xy 147.32 87.63) (xy 147.32 88.9)
 		)
 		(stroke
@@ -6491,6 +6645,16 @@
 			(type default)
 		)
 		(uuid "2e6675cb-de48-4c49-a504-3d7848696390")
+	)
+	(wire
+		(pts
+			(xy 236.22 91.44) (xy 236.22 114.3)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "338aa909-27c4-4365-bf2a-e138b3e322c3")
 	)
 	(wire
 		(pts
@@ -6534,6 +6698,66 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 116.84) (xy 279.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "381c3250-2a3c-43ea-b8d3-9161532b69ef")
+	)
+	(wire
+		(pts
+			(xy 220.98 81.28) (xy 279.4 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aad1156-2754-425e-bf4f-c9c666d83343")
+	)
+	(wire
+		(pts
+			(xy 279.4 93.98) (xy 304.8 93.98)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "3b1d69d5-cc00-47c6-87b2-d27fa53ae6a6")
+	)
+	(wire
+		(pts
+			(xy 276.86 119.38) (xy 279.4 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d042ce3-3ea0-4890-bcb9-8f5ec622585a")
+	)
+	(wire
+		(pts
+			(xy 220.98 121.92) (xy 251.46 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d2ca648-3bd8-4707-8abc-591b819c4f75")
+	)
+	(wire
+		(pts
+			(xy 271.78 76.2) (xy 271.78 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ee8c476-4d2f-4471-a545-26cb891b367f")
+	)
+	(wire
+		(pts
 			(xy 165.1 124.46) (xy 185.42 124.46)
 		)
 		(stroke
@@ -6554,6 +6778,26 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 116.84) (xy 304.8 116.84)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "412fc4ad-b97d-4e6d-8f44-f81b4d30272a")
+	)
+	(wire
+		(pts
+			(xy 279.4 116.84) (xy 279.4 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4359787a-5aaa-4234-bf92-8fdb4fd3720c")
+	)
+	(wire
+		(pts
 			(xy 205.74 241.3) (xy 205.74 243.84)
 		)
 		(stroke
@@ -6571,6 +6815,16 @@
 			(type default)
 		)
 		(uuid "46a27566-b5b7-4d25-b18a-e81f89f80b96")
+	)
+	(wire
+		(pts
+			(xy 236.22 68.58) (xy 236.22 91.44)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "46fe5cdf-8cb1-4db0-9d01-e935dbfcfaa5")
 	)
 	(wire
 		(pts
@@ -6694,6 +6948,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 76.2) (xy 259.08 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5258f9fd-34e0-4ba5-abd7-7fe3e9458d1c")
+	)
+	(wire
+		(pts
 			(xy 184.15 167.64) (xy 185.42 167.64)
 		)
 		(stroke
@@ -6701,6 +6965,26 @@
 			(type default)
 		)
 		(uuid "529ebb31-ee28-454f-932e-576493b942cd")
+	)
+	(wire
+		(pts
+			(xy 279.4 91.44) (xy 279.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "580ad163-372f-4e21-bba4-0207f66a01dd")
+	)
+	(wire
+		(pts
+			(xy 279.4 71.12) (xy 279.4 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5868aee2-a5ae-4c4f-a5d4-c0ca358d98e4")
 	)
 	(wire
 		(pts
@@ -6764,6 +7048,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 127) (xy 279.4 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5cbdc0c3-1699-4abc-a4a5-8e58275bab4b")
+	)
+	(wire
+		(pts
 			(xy 210.82 251.46) (xy 213.36 251.46)
 		)
 		(stroke
@@ -6794,6 +7088,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 96.52) (xy 243.84 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60a1392f-bb83-4fb0-a722-88326b2a30d1")
+	)
+	(wire
+		(pts
 			(xy 269.24 195.58) (xy 271.78 193.04)
 		)
 		(stroke
@@ -6814,6 +7118,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 71.12) (xy 304.8 71.12)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "6478ae34-57b5-4679-a072-7ef3da601af9")
+	)
+	(wire
+		(pts
 			(xy 220.98 142.24) (xy 243.84 142.24)
 		)
 		(stroke
@@ -6824,6 +7138,26 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 68.58) (xy 279.4 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68d34961-f340-407b-8c47-8d5a09746362")
+	)
+	(wire
+		(pts
+			(xy 279.4 68.58) (xy 279.4 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69cc3c36-3ab7-4f1a-beff-f31927ff2afb")
+	)
+	(wire
+		(pts
 			(xy 177.8 53.34) (xy 236.22 53.34)
 		)
 		(stroke
@@ -6831,6 +7165,26 @@
 			(type default)
 		)
 		(uuid "6a260c90-e004-401f-a908-db9c0e294631")
+	)
+	(wire
+		(pts
+			(xy 236.22 114.3) (xy 236.22 137.16)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "6a47084a-dd5d-4c4e-9f1e-ea219f0d7637")
+	)
+	(wire
+		(pts
+			(xy 220.98 124.46) (xy 271.78 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6af0bfc4-6c0b-49f2-9da4-2e0c94458b59")
 	)
 	(wire
 		(pts
@@ -6954,6 +7308,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 76.2) (xy 251.46 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "853cd743-dba7-48a0-8088-02e50dcfc076")
+	)
+	(wire
+		(pts
 			(xy 152.4 134.62) (xy 152.4 135.89)
 		)
 		(stroke
@@ -6971,6 +7335,16 @@
 			(type default)
 		)
 		(uuid "874204d7-7ef1-47ff-a65d-b2a16408defe")
+	)
+	(wire
+		(pts
+			(xy 271.78 99.06) (xy 271.78 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88d49eef-e02a-4a79-b010-2c748a094e73")
 	)
 	(wire
 		(pts
@@ -7074,6 +7448,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 73.66) (xy 248.92 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9474e6d4-a217-43cc-af60-bd037c39f680")
+	)
+	(wire
+		(pts
 			(xy 210.82 243.84) (xy 210.82 241.3)
 		)
 		(stroke
@@ -7081,6 +7465,16 @@
 			(type default)
 		)
 		(uuid "952183de-dd09-4525-9b20-b6eb8076d985")
+	)
+	(wire
+		(pts
+			(xy 279.4 96.52) (xy 279.4 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "957d4612-b069-46af-84a9-e4fd27e16c8a")
 	)
 	(wire
 		(pts
@@ -7111,6 +7505,26 @@
 			(type default)
 		)
 		(uuid "9ac486f0-fe55-4fb0-b336-ce01aad0964a")
+	)
+	(wire
+		(pts
+			(xy 276.86 93.98) (xy 279.4 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b3d57a1-4529-4aa3-9d67-3850d2801300")
+	)
+	(wire
+		(pts
+			(xy 236.22 91.44) (xy 248.92 91.44)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "9c75b83c-5fb8-4364-a0dc-d4a2c7591fec")
 	)
 	(wire
 		(pts
@@ -7181,6 +7595,16 @@
 			(type default)
 		)
 		(uuid "a0f24a97-98dd-4665-be67-c8c54b38a6cb")
+	)
+	(wire
+		(pts
+			(xy 259.08 114.3) (xy 261.62 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a11ad167-f55e-4cb0-9294-59b66d0ea335")
 	)
 	(wire
 		(pts
@@ -7284,6 +7708,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.08 91.44) (xy 261.62 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8f8641a-2187-45d5-89d2-f5976ec224dc")
+	)
+	(wire
+		(pts
 			(xy 127 143.51) (xy 127 144.78)
 		)
 		(stroke
@@ -7304,6 +7738,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 121.92) (xy 259.08 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b016fe56-1211-4328-9ade-533a6a35793b")
+	)
+	(wire
+		(pts
 			(xy 165.1 109.22) (xy 177.8 109.22)
 		)
 		(stroke
@@ -7314,6 +7758,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 114.3) (xy 248.92 114.3)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "b07149bc-231a-45c0-ba5e-4bcbe2ffdc86")
+	)
+	(wire
+		(pts
 			(xy 220.98 185.42) (xy 245.11 185.42)
 		)
 		(stroke
@@ -7321,6 +7775,16 @@
 			(type default)
 		)
 		(uuid "b358fa6e-756e-44c6-95ff-ae1b764f5c50")
+	)
+	(wire
+		(pts
+			(xy 259.08 68.58) (xy 261.62 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4bbd5a8-9e13-4220-96fd-3459cd8e008f")
 	)
 	(wire
 		(pts
@@ -7434,6 +7898,16 @@
 	)
 	(wire
 		(pts
+			(xy 236.22 68.58) (xy 248.92 68.58)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "ca4ecab4-572a-4164-aca0-fad84a51279d")
+	)
+	(wire
+		(pts
 			(xy 184.15 172.72) (xy 185.42 172.72)
 		)
 		(stroke
@@ -7441,6 +7915,16 @@
 			(type default)
 		)
 		(uuid "cabed9b0-8b73-4b75-a9df-e293bd4ad643")
+	)
+	(wire
+		(pts
+			(xy 279.4 93.98) (xy 279.4 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8208fe-9be5-4048-8131-dd9befc969de")
 	)
 	(wire
 		(pts
@@ -7491,6 +7975,16 @@
 			(type default)
 		)
 		(uuid "d0e38473-51fe-46ac-a8bd-9d64704106fc")
+	)
+	(wire
+		(pts
+			(xy 276.86 73.66) (xy 279.4 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1315453-1ab7-4a83-ae42-a94ac2da606a")
 	)
 	(wire
 		(pts
@@ -7574,6 +8068,36 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 104.14) (xy 279.4 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da47233f-72cb-42bf-958e-df44563f9b4e")
+	)
+	(wire
+		(pts
+			(xy 220.98 78.74) (xy 271.78 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da5cb3af-11b5-4574-a1fa-446e85bf1c5c")
+	)
+	(wire
+		(pts
+			(xy 220.98 99.06) (xy 251.46 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbc589eb-eaf1-4b8e-8e9c-2c823ae7a5b2")
+	)
+	(wire
+		(pts
 			(xy 165.1 157.48) (xy 165.1 162.56)
 		)
 		(stroke
@@ -7634,6 +8158,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 71.12) (xy 279.4 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e705a405-33ff-4a2e-831d-f44e47f4b065")
+	)
+	(wire
+		(pts
 			(xy 220.98 195.58) (xy 269.24 195.58)
 		)
 		(stroke
@@ -7661,6 +8195,16 @@
 			(type default)
 		)
 		(uuid "edf34432-c25a-4c7b-89d6-b264e10277b4")
+	)
+	(wire
+		(pts
+			(xy 276.86 91.44) (xy 279.4 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb3386c-ab0a-4a42-8d6e-f75166bae350")
 	)
 	(wire
 		(pts
@@ -7714,13 +8258,23 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 246.38) (xy 210.82 243.84)
+			(xy 276.86 114.3) (xy 279.4 114.3)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f990437d-3d58-4db8-9800-98be9b4a57b3")
+		(uuid "f81647d4-f1f4-411e-991f-1ad919b26ef8")
+	)
+	(wire
+		(pts
+			(xy 279.4 73.66) (xy 279.4 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f920e15f-6502-4d20-b699-f3814f5c886b")
 	)
 	(wire
 		(pts
@@ -7764,13 +8318,43 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 53.34) (xy 236.22 137.16)
+			(xy 220.98 101.6) (xy 271.78 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7c33a2-8feb-42f1-b6b7-1f353ea92035")
+	)
+	(wire
+		(pts
+			(xy 271.78 121.92) (xy 271.78 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff585e43-1b3d-4891-8e2c-8a0b5638ff10")
+	)
+	(wire
+		(pts
+			(xy 236.22 53.34) (xy 236.22 68.58)
 		)
 		(stroke
 			(width 0.508)
 			(type default)
 		)
 		(uuid "ff85d613-59ab-461a-a6f0-e8cc200da30b")
+	)
+	(wire
+		(pts
+			(xy 279.4 114.3) (xy 279.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff87ee03-db00-4ae3-bacc-1d556a2229d6")
 	)
 	(label "OUTM3"
 		(at 304.8 213.36 0)
@@ -7812,6 +8396,16 @@
 		)
 		(uuid "14a50023-731f-4768-9a68-735a878dfd8e")
 	)
+	(label "HGATE0"
+		(at 223.52 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1cfe3d18-b14d-45b0-a2b6-830fb03ab916")
+	)
 	(label "HSNSM4"
 		(at 223.52 167.64 0)
 		(effects
@@ -7831,6 +8425,16 @@
 			(justify right bottom)
 		)
 		(uuid "27e3af80-8e40-40b6-b65f-945e2d2a1cf9")
+	)
+	(label "HSNSM0"
+		(at 223.52 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "30db1549-2c03-4d1b-baeb-9d96ff20b881")
 	)
 	(label "OUTP3"
 		(at 304.8 139.7 0)
@@ -7891,6 +8495,26 @@
 			(justify left bottom)
 		)
 		(uuid "580bc654-ac9f-463b-94c6-72bd53c7f392")
+	)
+	(label "HGATE2"
+		(at 223.52 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6269c6b7-e4dd-45c5-8e6b-fb536db4ab01")
+	)
+	(label "HSNSM2"
+		(at 223.52 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "68980cfc-e8e6-44ee-9601-72b5a68c1de4")
 	)
 	(label "RT"
 		(at 184.15 223.52 180)
@@ -7962,6 +8586,26 @@
 		)
 		(uuid "a8277a5f-99d8-4af1-a1d6-9446e153203a")
 	)
+	(label "OUTP2"
+		(at 304.8 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a856170b-7cb3-46a3-8c3c-d4e719b272c5")
+	)
+	(label "OUTP0"
+		(at 304.8 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab0901c3-8c92-41f9-87fd-08a1d883d4ef")
+	)
 	(label "LSNS"
 		(at 233.68 251.46 180)
 		(effects
@@ -8021,6 +8665,36 @@
 			(justify left bottom)
 		)
 		(uuid "ca57b593-b5c6-416e-8d87-7ecd447a94e6")
+	)
+	(label "OUTP1"
+		(at 304.8 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da9d93f4-1579-4d01-ad04-cfda5c62ec91")
+	)
+	(label "HGATE1"
+		(at 223.52 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "df543487-670e-42bd-b86e-c5579e48a83a")
+	)
+	(label "HSNSM1"
+		(at 223.52 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2285a22-6b8a-4c7b-a81a-915a23a40ab7")
 	)
 	(label "SW3"
 		(at 184.15 172.72 180)
@@ -8619,6 +9293,177 @@
 			(project ""
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TRANSISTORS_PSMN075-100MSEX_DATA_BASE:Q_PSMN075-100MSEX")
+		(at 269.24 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c2ec892-e774-4124-8ee8-e1e8f8b64482")
+		(property "Reference" "Q4"
+			(at 269.24 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100.0 V"
+			(at 269.24 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "transistor_footprints:LFPAK33-8"
+			(at 269.24 125.73 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN075-100MSE.pdf"
+			(at 269.24 128.27 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transistor 100.0 V"
+			(at 269.24 130.81 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Collector Current (A)" "-"
+			(at 269.24 133.35 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Drain Current (A)" "18.0"
+			(at 269.24 135.89 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PSMN075-100MSEX"
+			(at 269.24 138.43 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 269.24 140.97 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "PSMN075-100MSEX"
+			(at 269.24 143.51 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "Q_PSMN075-100MSEX"
+			(at 269.24 146.05 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 269.24 148.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
+			(at 269.24 151.13 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "69e18382-177d-4a59-bb0c-93a662a5ee59")
+		)
+		(pin "5"
+			(uuid "ffce01a5-4a8d-4390-8a6c-b7560fd5f0e5")
+		)
+		(pin "4"
+			(uuid "6f858efa-e019-4718-bb36-3c25ce5eea2d")
+		)
+		(pin "3"
+			(uuid "0e333100-f2b0-4e88-9dae-3f22df6615fc")
+		)
+		(pin "2"
+			(uuid "a85a83e8-21bc-496e-93bc-3d81132496d6")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -11675,6 +12520,372 @@
 		)
 	)
 	(symbol
+		(lib_id "TRANSISTORS_PSMN075-100MSEX_DATA_BASE:Q_PSMN075-100MSEX")
+		(at 269.24 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "892808a1-18d6-40c7-91c2-d525b3b0f6fc")
+		(property "Reference" "Q5"
+			(at 269.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100.0 V"
+			(at 269.24 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "transistor_footprints:LFPAK33-8"
+			(at 269.24 80.01 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN075-100MSE.pdf"
+			(at 269.24 82.55 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transistor 100.0 V"
+			(at 269.24 85.09 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Collector Current (A)" "-"
+			(at 269.24 87.63 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Drain Current (A)" "18.0"
+			(at 269.24 90.17 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PSMN075-100MSEX"
+			(at 269.24 92.71 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 269.24 95.25 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "PSMN075-100MSEX"
+			(at 269.24 97.79 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "Q_PSMN075-100MSEX"
+			(at 269.24 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 269.24 102.87 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
+			(at 269.24 105.41 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae213124-c283-476f-a0dc-996df8a3711e")
+		)
+		(pin "5"
+			(uuid "5382bd3e-7210-4494-b350-46080105091e")
+		)
+		(pin "4"
+			(uuid "267d6ce4-4818-4b4d-9ad8-4544999d3fa7")
+		)
+		(pin "3"
+			(uuid "18f5b62c-0ead-42b4-9506-258b9bed707f")
+		)
+		(pin "2"
+			(uuid "bad51d6f-ea5b-4919-94b0-4d096efdecd8")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "Q5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
+		(at 254 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f170b49-edf2-4824-b898-25b0d54e9607")
+		(property "Reference" "R17"
+			(at 254 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "24 mΩ"
+			(at 254 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+			(at 254 119.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+			(at 254 121.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES SMD 24 mΩ 1% 0612"
+			(at 254 124.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "0612"
+			(at 254 127 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "1632"
+			(at 254 129.54 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 254 132.08 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-B2CFR024V"
+			(at 254 134.62 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 254 137.16 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "ERJ-B2CF"
+			(at 254 139.7 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "R_ERJ-B2CFR024V"
+			(at 254 142.24 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" ""
+			(at 254 144.78 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 254 147.32 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
+			(at 254 149.86 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 254 152.4 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7554670f-e940-4165-b9ec-7caed987e4f7")
+		)
+		(pin "1"
+			(uuid "f9911caf-32a6-4c0d-8a40-6f984e3a2b71")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "UNITED_IC_ADI:U_LTC4296AUK-1-PBF")
 		(at 203.2 152.4 0)
 		(unit 1)
@@ -11899,6 +13110,177 @@
 		)
 	)
 	(symbol
+		(lib_id "TRANSISTORS_PSMN040-100MSEX_DATA_BASE:Q_PSMN040-100MSEX")
+		(at 269.24 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a0593107-1953-41b5-b354-1c9a81fc5108")
+		(property "Reference" "Q6"
+			(at 269.24 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100.0 V"
+			(at 269.24 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "transistor_footprints:LFPAK33-8"
+			(at 269.24 102.87 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN040-100MSE.pdf"
+			(at 269.24 105.41 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transistor 100.0 V"
+			(at 269.24 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Collector Current (A)" "-"
+			(at 269.24 110.49 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Drain Current (A)" "30.0"
+			(at 269.24 113.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PSMN040-100MSEX"
+			(at 269.24 115.57 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Nexperia"
+			(at 269.24 118.11 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "PSMN040-100MSEX"
+			(at 269.24 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "Q_PSMN040-100MSEX"
+			(at 269.24 123.19 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Transistor Type" "N-Channel"
+			(at 269.24 125.73 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN040-100MSEX"
+			(at 269.24 128.27 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3f44b1c7-de68-4c1a-818c-b7ea9919bfe8")
+		)
+		(pin "3"
+			(uuid "c392e16b-6587-4957-82eb-c7887cbbca19")
+		)
+		(pin "5"
+			(uuid "bdcd3539-61c6-4a2d-b0d2-1ca8092455f8")
+		)
+		(pin "4"
+			(uuid "00b0cb49-8fd4-44d5-b937-c8eb30cd7ddf")
+		)
+		(pin "1"
+			(uuid "ab530988-3cb9-4372-9f1b-e41cea3282eb")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1003X")
 		(at 127 138.43 90)
 		(mirror x)
@@ -12090,6 +13472,201 @@
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
+		(at 254 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b16dd250-de51-482f-b3c0-6a973e041b07")
+		(property "Reference" "R19"
+			(at 254 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "390 mΩ"
+			(at 254 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+			(at 254 96.52 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+			(at 254 99.06 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES SMD 390 mΩ 1% 0612"
+			(at 254 101.6 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "0612"
+			(at 254 104.14 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "1632"
+			(at 254 106.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 254 109.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-B2BFR39V"
+			(at 254 111.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 254 114.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "ERJ-B2BF"
+			(at 254 116.84 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "R_ERJ-B2BFR39V"
+			(at 254 119.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" ""
+			(at 254 121.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 254 124.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
+			(at 254 127 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 254 129.54 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8555936b-b8d4-4eec-8caf-1bbd5e1bf3a3")
+		)
+		(pin "2"
+			(uuid "5bd917f6-2d21-4b85-80d5-25179200f76d")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -12718,6 +14295,201 @@
 			(project ""
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
+		(at 254 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb07c717-bba3-45c3-bacd-5ed8c61baca4")
+		(property "Reference" "R18"
+			(at 254 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "24 mΩ"
+			(at 254 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+			(at 254 73.66 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+			(at 254 76.2 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES SMD 24 mΩ 1% 0612"
+			(at 254 78.74 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "0612"
+			(at 254 81.28 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "1632"
+			(at 254 83.82 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 254 86.36 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-B2CFR024V"
+			(at 254 88.9 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 254 91.44 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "ERJ-B2CF"
+			(at 254 93.98 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "R_ERJ-B2CFR024V"
+			(at 254 96.52 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" ""
+			(at 254 99.06 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 254 101.6 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
+			(at 254 104.14 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" ""
+			(at 254 106.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bab7e5b1-3685-4390-a158-66e1a8cd7702")
+		)
+		(pin "1"
+			(uuid "b0cdd9dd-a828-47dc-aefb-5337a0d6fb97")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "R18")
 					(unit 1)
 				)
 			)

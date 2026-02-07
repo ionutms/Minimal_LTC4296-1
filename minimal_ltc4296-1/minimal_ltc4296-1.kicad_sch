@@ -740,6 +740,251 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "CAPACITORS_CL31B_DATA_BASE:C_CL31B225KBHNNN#"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "2.2 µF"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL31B225KBHNNN#"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "CAP SMD 2.2 µF X7R 10% 1206 50V"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Capacitor Type" "Ceramic"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "1206"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "3216"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Dielectric" "X7R"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "CL31B225KBHNNN#"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Samsung Electro-Mechanics"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "CL31B"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "C_CL31B225KBHNNN#"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "10%"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B225KBHNNN#"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -40.64 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "C_CL31B225KBHNNN#_0_1"
+				(polyline
+					(pts
+						(xy -0.762 -2.032) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -2.032) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_CL31B225KBHNNN#_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.8)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.8)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "CAPACITORS_GCM155R71H_DATA_BASE:C_GCM155R71H102KA37D"
 			(pin_names
 				(offset 0.254)
@@ -1220,6 +1465,193 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "DIODES_S1B-13-F_DATA_BASE:D_S1B-13-F"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "100 V"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "diode_footprints:SMA"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0007810797/DIOD-S-A0007810797-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Rectifier SMD 100 V"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Diode Type" "Rectifier"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "S1B-13-F"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Diodes Incorporated"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Maximum DC Current (A)" "1.0"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "S1B-13-F"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "D_S1B-13-F"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/S1B-13-F"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "D_S1B-13-F_1_0"
+				(polyline
+					(pts
+						(xy 1.27 1.905) (xy 1.27 0) (xy -1.27 1.905) (xy -1.27 -1.905) (xy 1.27 0) (xy 1.27 -1.905)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2785,6 +3217,568 @@
 				)
 			)
 			(symbol "R_ERJ-2RKF4991X_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF4992X"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "49.9 kΩ"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0402_1005Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 49.9 kΩ 1% 0402 50V"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0402"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1005"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-2RKF4992X"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-2RKF"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-2RKF4992X"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" "100 ppm/°C"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF4992X"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "50V"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-2RKF4992X_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-2RKF4992X_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RESISTORS_ERJ-3GEY0_DATA_BASE:R_ERJ-3GEY0R00V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "0 mΩ"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0603_1608Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 0 mΩ 5% 0603 75V"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0603"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1608"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-3GEY0R00V"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-3GEY0"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-3GEY0R00V"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" "200 ppm/°C"
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "5%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3GEY0R00V"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" "75V"
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-3GEY0R00V_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-3GEY0R00V_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -5906,19 +6900,19 @@
 		)
 	)
 	(junction
-		(at 254 139.7)
+		(at 279.4 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0164aa81-82ba-4844-a687-71d981274645")
 	)
 	(junction
-		(at 269.24 99.06)
+		(at 294.64 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06071083-29f7-4cfd-a689-7af66d78b599")
 	)
 	(junction
-		(at 254 76.2)
+		(at 279.4 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07d0d173-664f-4a43-879a-42c72077bc88")
@@ -5930,13 +6924,13 @@
 		(uuid "0e619217-9add-4174-b63c-7a4737195247")
 	)
 	(junction
-		(at 289.56 81.28)
+		(at 314.96 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "129ccf5c-6b2a-4217-89c1-836c76b67334")
 	)
 	(junction
-		(at 254 220.98)
+		(at 279.4 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1337c35e-fae3-4641-9cb7-44cef7758770")
@@ -5948,7 +6942,7 @@
 		(uuid "151efae7-c3ee-43fe-b07f-bc53eb206520")
 	)
 	(junction
-		(at 254 198.12)
+		(at 279.4 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "204eae03-e4e5-4429-ab98-6aa151b2f007")
@@ -5966,13 +6960,13 @@
 		(uuid "30553dba-c6f3-454c-a1f7-f535633f0411")
 	)
 	(junction
-		(at 269.24 58.42)
+		(at 294.64 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32aa350d-edc2-4874-a290-e98fec00b0cb")
 	)
 	(junction
-		(at 289.56 162.56)
+		(at 314.96 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39927d62-21d2-424e-9fe2-f8534b5d21d5")
@@ -5984,13 +6978,13 @@
 		(uuid "47cbe4d9-0f5e-40ab-b022-a098058c2d62")
 	)
 	(junction
-		(at 269.24 139.7)
+		(at 294.64 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "48f6c8d6-e6e2-4704-8b5d-00f035eed45d")
 	)
 	(junction
-		(at 289.56 40.64)
+		(at 314.96 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d98f7f3-3d3b-4c54-9409-c6d522853668")
@@ -6008,7 +7002,7 @@
 		(uuid "57a7c521-07c5-4a05-9431-59e2d653e2e5")
 	)
 	(junction
-		(at 269.24 220.98)
+		(at 294.64 220.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b5fdc09-dc06-4986-bf14-cfa9c9a76403")
@@ -6020,13 +7014,13 @@
 		(uuid "63917344-6a65-4ef8-ae6e-49696c245be5")
 	)
 	(junction
-		(at 254 35.56)
+		(at 279.4 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6af3f7cb-aff2-4a6a-a3cc-c7a6f1bf5253")
 	)
 	(junction
-		(at 246.38 35.56)
+		(at 256.54 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72dab003-00c6-4692-a577-c7edfa6ed58b")
@@ -6044,7 +7038,7 @@
 		(uuid "7ac8f193-4419-4e2b-8396-2f6aadf28654")
 	)
 	(junction
-		(at 289.56 200.66)
+		(at 314.96 200.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c9c0970-0bae-4b04-95cf-621fc5d624e1")
@@ -6062,13 +7056,19 @@
 		(uuid "801faf29-26cb-4880-925f-5509cbf92ac6")
 	)
 	(junction
-		(at 254 99.06)
+		(at 279.4 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84c8c70c-62cb-495f-8b10-524c5e7306da")
 	)
 	(junction
-		(at 246.38 116.84)
+		(at 266.7 246.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b3fbf9c-8510-4ce0-a690-3cab3eed7dd5")
+	)
+	(junction
+		(at 256.54 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "97f77d2a-9aba-4cee-b31b-b4c8dc3cb05d")
@@ -6080,19 +7080,19 @@
 		(uuid "99145eda-b562-4acc-86ab-107a8bd84362")
 	)
 	(junction
-		(at 289.56 78.74)
+		(at 314.96 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ec2bb1a-5b58-4cba-b74f-36304ad587a6")
 	)
 	(junction
-		(at 289.56 160.02)
+		(at 314.96 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a350b703-807b-43b2-9c42-65f94a1b753e")
 	)
 	(junction
-		(at 269.24 180.34)
+		(at 294.64 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a59af1d3-a3a8-49be-b74e-afdc38505ab7")
@@ -6104,7 +7104,7 @@
 		(uuid "a7f98250-d280-4f66-aaa7-57caaee14111")
 	)
 	(junction
-		(at 269.24 116.84)
+		(at 294.64 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac41005f-8965-4fd6-ab9a-e9d59b863076")
@@ -6116,7 +7116,7 @@
 		(uuid "acb34d03-385f-418d-9af5-ef0e019401ad")
 	)
 	(junction
-		(at 289.56 119.38)
+		(at 314.96 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ad06fab3-4510-4e0b-9e51-7c9db740e972")
@@ -6128,43 +7128,55 @@
 		(uuid "aebdf358-8230-478c-ab18-851a9e988554")
 	)
 	(junction
-		(at 289.56 121.92)
+		(at 314.96 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aec48165-cf39-43c3-9f27-ed9f4cd5d792")
 	)
 	(junction
-		(at 269.24 76.2)
+		(at 294.64 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b652def7-c3c6-46d8-9e8d-a7cf1fafe89b")
 	)
 	(junction
-		(at 254 116.84)
+		(at 241.3 226.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bbcf7da2-736d-4538-83aa-06a49ec363ca")
+	)
+	(junction
+		(at 264.16 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4a64641-6a2d-49e6-b1bf-07a26266bde2")
+	)
+	(junction
+		(at 279.4 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7e0f295-bcb9-46f2-b182-91f3136df0bf")
 	)
 	(junction
-		(at 269.24 198.12)
+		(at 294.64 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8194e64-68b6-466e-bbdd-30e976ed8818")
 	)
 	(junction
-		(at 289.56 38.1)
+		(at 314.96 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cae559ae-8294-40d1-b7df-e9a4485c5ad0")
 	)
 	(junction
-		(at 246.38 157.48)
+		(at 256.54 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cea9d366-3bbc-4953-9223-61a47cd9442a")
 	)
 	(junction
-		(at 246.38 76.2)
+		(at 256.54 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf5a61cf-a470-4ec4-8135-3ab7bc6cf8d7")
@@ -6176,7 +7188,7 @@
 		(uuid "d2d8af4d-9f25-49d9-90eb-4939220c1c2b")
 	)
 	(junction
-		(at 254 180.34)
+		(at 279.4 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7acecc9-2730-4ef6-b5e9-82f0e9038833")
@@ -6194,7 +7206,7 @@
 		(uuid "dc672920-3346-4889-a87f-f674ae3df5c2")
 	)
 	(junction
-		(at 254 58.42)
+		(at 279.4 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df9e3cdf-7543-42d1-8068-eeee872380d9")
@@ -6206,13 +7218,13 @@
 		(uuid "e1681ec8-b9ba-49ca-93b9-4a87b7b63f31")
 	)
 	(junction
-		(at 269.24 35.56)
+		(at 294.64 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1f34783-0fbe-415b-a5c2-0260e3b0f6bc")
 	)
 	(junction
-		(at 254 157.48)
+		(at 279.4 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e26cfa5e-2e75-41e9-a165-d6918e1f0bc5")
@@ -6230,7 +7242,19 @@
 		(uuid "e506fb88-8b26-45c6-9a10-002a45e88df0")
 	)
 	(junction
-		(at 269.24 157.48)
+		(at 256.54 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1632a4b-a334-498b-817b-dce082911f9f")
+	)
+	(junction
+		(at 269.24 220.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5f3fadf-bf58-4a87-821a-25fad49135b9")
+	)
+	(junction
+		(at 294.64 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fa537e46-80b9-4390-996a-8e2e9f547e33")
@@ -6242,7 +7266,7 @@
 		(uuid "fa6d7571-4b39-4ff6-b480-56a799f1cd9e")
 	)
 	(junction
-		(at 289.56 203.2)
+		(at 314.96 203.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb3af1f0-189b-4700-89d3-a1815d56c163")
@@ -6259,7 +7283,17 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 205.74) (xy 269.24 198.12)
+			(xy 269.24 243.84) (xy 269.24 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02b3fc2f-f70c-45a1-aa46-b8b549043bf7")
+	)
+	(wire
+		(pts
+			(xy 287.02 205.74) (xy 294.64 198.12)
 		)
 		(stroke
 			(width 0)
@@ -6279,7 +7313,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 116.84) (xy 254 116.84)
+			(xy 281.94 116.84) (xy 279.4 116.84)
 		)
 		(stroke
 			(width 0)
@@ -6289,7 +7323,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 116.84) (xy 246.38 157.48)
+			(xy 256.54 116.84) (xy 256.54 157.48)
 		)
 		(stroke
 			(width 0.508)
@@ -6309,7 +7343,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 180.34) (xy 256.54 180.34)
+			(xy 279.4 180.34) (xy 281.94 180.34)
 		)
 		(stroke
 			(width 0)
@@ -6339,7 +7373,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 162.56) (xy 254 157.48)
+			(xy 274.32 162.56) (xy 279.4 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6349,7 +7383,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 40.64) (xy 248.92 40.64)
+			(xy 220.98 40.64) (xy 274.32 40.64)
 		)
 		(stroke
 			(width 0)
@@ -6369,7 +7403,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 121.92) (xy 248.92 121.92)
+			(xy 220.98 121.92) (xy 274.32 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6389,7 +7423,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 121.92) (xy 254 116.84)
+			(xy 274.32 121.92) (xy 279.4 116.84)
 		)
 		(stroke
 			(width 0)
@@ -6399,7 +7433,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 175.26) (xy 269.24 180.34)
+			(xy 289.56 175.26) (xy 294.64 180.34)
 		)
 		(stroke
 			(width 0)
@@ -6409,7 +7443,17 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 81.28) (xy 289.56 81.28)
+			(xy 269.24 220.98) (xy 279.4 220.98)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "0de8b940-4041-45ae-94da-5eaaf17f822e")
+	)
+	(wire
+		(pts
+			(xy 312.42 81.28) (xy 314.96 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6419,7 +7463,17 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 157.48) (xy 254 157.48)
+			(xy 241.3 220.98) (xy 241.3 226.06)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "115826a0-1683-4bec-b23f-989f4afbe469")
+	)
+	(wire
+		(pts
+			(xy 256.54 157.48) (xy 279.4 157.48)
 		)
 		(stroke
 			(width 0.508)
@@ -6429,7 +7483,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 157.48) (xy 289.56 157.48)
+			(xy 312.42 157.48) (xy 314.96 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6439,7 +7493,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 203.2) (xy 289.56 203.2)
+			(xy 312.42 203.2) (xy 314.96 203.2)
 		)
 		(stroke
 			(width 0)
@@ -6449,7 +7503,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 50.8) (xy 309.88 50.8)
+			(xy 220.98 50.8) (xy 330.2 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6459,7 +7513,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 55.88) (xy 254 58.42)
+			(xy 276.86 55.88) (xy 279.4 58.42)
 		)
 		(stroke
 			(width 0)
@@ -6469,7 +7523,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 213.36) (xy 309.88 213.36)
+			(xy 220.98 213.36) (xy 330.2 213.36)
 		)
 		(stroke
 			(width 0)
@@ -6499,7 +7553,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 215.9) (xy 269.24 220.98)
+			(xy 289.56 215.9) (xy 294.64 220.98)
 		)
 		(stroke
 			(width 0)
@@ -6509,7 +7563,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 220.98) (xy 269.24 220.98)
+			(xy 292.1 220.98) (xy 294.64 220.98)
 		)
 		(stroke
 			(width 0)
@@ -6519,7 +7573,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 116.84) (xy 271.78 116.84)
+			(xy 294.64 116.84) (xy 297.18 116.84)
 		)
 		(stroke
 			(width 0)
@@ -6549,7 +7603,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 167.64) (xy 281.94 167.64)
+			(xy 220.98 167.64) (xy 307.34 167.64)
 		)
 		(stroke
 			(width 0)
@@ -6559,7 +7613,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 76.2) (xy 289.56 76.2)
+			(xy 312.42 76.2) (xy 314.96 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6569,7 +7623,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 121.92) (xy 289.56 129.54)
+			(xy 314.96 121.92) (xy 314.96 129.54)
 		)
 		(stroke
 			(width 0)
@@ -6609,7 +7663,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 99.06) (xy 269.24 99.06)
+			(xy 292.1 99.06) (xy 294.64 99.06)
 		)
 		(stroke
 			(width 0)
@@ -6639,7 +7693,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 83.82) (xy 269.24 76.2)
+			(xy 287.02 83.82) (xy 294.64 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6659,7 +7713,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 78.74) (xy 309.88 78.74)
+			(xy 314.96 78.74) (xy 330.2 78.74)
 		)
 		(stroke
 			(width 0.508)
@@ -6689,7 +7743,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 58.42) (xy 269.24 58.42)
+			(xy 292.1 58.42) (xy 294.64 58.42)
 		)
 		(stroke
 			(width 0)
@@ -6709,7 +7763,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 139.7) (xy 254 139.7)
+			(xy 241.3 139.7) (xy 279.4 139.7)
 		)
 		(stroke
 			(width 0.508)
@@ -6719,13 +7773,23 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 81.28) (xy 254 76.2)
+			(xy 274.32 81.28) (xy 279.4 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2de32fc8-a8fe-423a-828f-ff5db3cc442b")
+	)
+	(wire
+		(pts
+			(xy 241.3 226.06) (xy 243.84 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e53cc19-7234-4bfc-b14a-d1d32d7aa7e2")
 	)
 	(wire
 		(pts
@@ -6739,6 +7803,16 @@
 	)
 	(wire
 		(pts
+			(xy 264.16 238.76) (xy 264.16 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e96559a-2da3-4895-b988-614c0bd8bc90")
+	)
+	(wire
+		(pts
 			(xy 236.22 243.84) (xy 236.22 246.38)
 		)
 		(stroke
@@ -6746,6 +7820,16 @@
 			(type default)
 		)
 		(uuid "2fe57d06-de84-4f56-b57a-dda96f386106")
+	)
+	(wire
+		(pts
+			(xy 241.3 226.06) (xy 241.3 228.6)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "3221d2dc-d850-4746-9297-d98b17a65b84")
 	)
 	(wire
 		(pts
@@ -6759,7 +7843,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 96.52) (xy 251.46 96.52)
+			(xy 243.84 96.52) (xy 276.86 96.52)
 		)
 		(stroke
 			(width 0)
@@ -6779,7 +7863,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 119.38) (xy 289.56 119.38)
+			(xy 312.42 119.38) (xy 314.96 119.38)
 		)
 		(stroke
 			(width 0)
@@ -6789,7 +7873,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 175.26) (xy 264.16 175.26)
+			(xy 220.98 175.26) (xy 289.56 175.26)
 		)
 		(stroke
 			(width 0)
@@ -6799,7 +7883,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 48.26) (xy 289.56 48.26)
+			(xy 220.98 48.26) (xy 314.96 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6809,7 +7893,17 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 180.34) (xy 269.24 180.34)
+			(xy 269.24 231.14) (xy 269.24 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc7df1a-98d3-4cfa-b9e7-74e1d86da478")
+	)
+	(wire
+		(pts
+			(xy 292.1 180.34) (xy 294.64 180.34)
 		)
 		(stroke
 			(width 0)
@@ -6819,7 +7913,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 121.92) (xy 289.56 121.92)
+			(xy 312.42 121.92) (xy 314.96 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6829,7 +7923,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 124.46) (xy 261.62 124.46)
+			(xy 220.98 124.46) (xy 287.02 124.46)
 		)
 		(stroke
 			(width 0)
@@ -6839,7 +7933,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 134.62) (xy 264.16 134.62)
+			(xy 220.98 134.62) (xy 289.56 134.62)
 		)
 		(stroke
 			(width 0)
@@ -6849,7 +7943,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 43.18) (xy 281.94 45.72)
+			(xy 307.34 43.18) (xy 307.34 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6879,7 +7973,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 119.38) (xy 309.88 119.38)
+			(xy 314.96 119.38) (xy 330.2 119.38)
 		)
 		(stroke
 			(width 0.508)
@@ -6889,7 +7983,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 119.38) (xy 289.56 121.92)
+			(xy 314.96 119.38) (xy 314.96 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6959,7 +8053,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 220.98) (xy 256.54 220.98)
+			(xy 279.4 220.98) (xy 281.94 220.98)
 		)
 		(stroke
 			(width 0)
@@ -6969,7 +8063,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 165.1) (xy 269.24 157.48)
+			(xy 287.02 165.1) (xy 294.64 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6979,7 +8073,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 162.56) (xy 289.56 162.56)
+			(xy 312.42 162.56) (xy 314.96 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7029,7 +8123,17 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 43.18) (xy 269.24 35.56)
+			(xy 256.54 198.12) (xy 256.54 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "517590c9-b57f-4406-b67c-a10167080bf6")
+	)
+	(wire
+		(pts
+			(xy 287.02 43.18) (xy 294.64 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7039,7 +8143,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 38.1) (xy 289.56 40.64)
+			(xy 314.96 38.1) (xy 314.96 40.64)
 		)
 		(stroke
 			(width 0)
@@ -7089,7 +8193,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 198.12) (xy 254 198.12)
+			(xy 256.54 198.12) (xy 279.4 198.12)
 		)
 		(stroke
 			(width 0.508)
@@ -7099,7 +8203,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 129.54) (xy 289.56 129.54)
+			(xy 220.98 129.54) (xy 314.96 129.54)
 		)
 		(stroke
 			(width 0)
@@ -7119,7 +8223,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 210.82) (xy 289.56 210.82)
+			(xy 220.98 210.82) (xy 314.96 210.82)
 		)
 		(stroke
 			(width 0)
@@ -7129,7 +8233,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 157.48) (xy 266.7 157.48)
+			(xy 294.64 157.48) (xy 292.1 157.48)
 		)
 		(stroke
 			(width 0)
@@ -7139,7 +8243,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 81.28) (xy 248.92 81.28)
+			(xy 220.98 81.28) (xy 274.32 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7149,7 +8253,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 139.7) (xy 251.46 137.16)
+			(xy 279.4 139.7) (xy 276.86 137.16)
 		)
 		(stroke
 			(width 0)
@@ -7159,7 +8263,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 200.66) (xy 289.56 203.2)
+			(xy 314.96 200.66) (xy 314.96 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7169,7 +8273,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 38.1) (xy 309.88 38.1)
+			(xy 314.96 38.1) (xy 330.2 38.1)
 		)
 		(stroke
 			(width 0.508)
@@ -7179,7 +8283,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 162.56) (xy 248.92 162.56)
+			(xy 220.98 162.56) (xy 274.32 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7189,7 +8293,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 35.56) (xy 246.38 76.2)
+			(xy 256.54 35.56) (xy 256.54 76.2)
 		)
 		(stroke
 			(width 0.508)
@@ -7199,7 +8303,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 35.56) (xy 289.56 35.56)
+			(xy 312.42 35.56) (xy 314.96 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7209,7 +8313,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 30.48) (xy 246.38 30.48)
+			(xy 177.8 30.48) (xy 256.54 30.48)
 		)
 		(stroke
 			(width 0.508)
@@ -7219,7 +8323,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 76.2) (xy 246.38 116.84)
+			(xy 256.54 76.2) (xy 256.54 116.84)
 		)
 		(stroke
 			(width 0.508)
@@ -7229,7 +8333,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 127) (xy 281.94 127)
+			(xy 220.98 127) (xy 307.34 127)
 		)
 		(stroke
 			(width 0)
@@ -7239,7 +8343,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 157.48) (xy 246.38 198.12)
+			(xy 256.54 157.48) (xy 256.54 198.12)
 		)
 		(stroke
 			(width 0.508)
@@ -7249,7 +8353,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 53.34) (xy 264.16 53.34)
+			(xy 220.98 53.34) (xy 289.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -7279,7 +8383,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 132.08) (xy 309.88 132.08)
+			(xy 220.98 132.08) (xy 330.2 132.08)
 		)
 		(stroke
 			(width 0)
@@ -7289,7 +8393,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 134.62) (xy 269.24 139.7)
+			(xy 289.56 134.62) (xy 294.64 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7299,7 +8403,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 76.2) (xy 271.78 76.2)
+			(xy 294.64 76.2) (xy 297.18 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7309,7 +8413,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 165.1) (xy 261.62 165.1)
+			(xy 220.98 165.1) (xy 287.02 165.1)
 		)
 		(stroke
 			(width 0)
@@ -7319,7 +8423,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 139.7) (xy 269.24 139.7)
+			(xy 292.1 139.7) (xy 294.64 139.7)
 		)
 		(stroke
 			(width 0)
@@ -7349,7 +8453,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 177.8) (xy 251.46 177.8)
+			(xy 243.84 177.8) (xy 276.86 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7359,7 +8463,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 96.52) (xy 254 99.06)
+			(xy 276.86 96.52) (xy 279.4 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7369,7 +8473,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 157.48) (xy 254 157.48)
+			(xy 281.94 157.48) (xy 279.4 157.48)
 		)
 		(stroke
 			(width 0)
@@ -7379,7 +8483,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 198.12) (xy 254 198.12)
+			(xy 281.94 198.12) (xy 279.4 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7399,7 +8503,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 198.12) (xy 269.24 198.12)
+			(xy 292.1 198.12) (xy 294.64 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7409,7 +8513,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 99.06) (xy 256.54 99.06)
+			(xy 279.4 99.06) (xy 281.94 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7419,7 +8523,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 43.18) (xy 261.62 43.18)
+			(xy 220.98 43.18) (xy 287.02 43.18)
 		)
 		(stroke
 			(width 0)
@@ -7449,7 +8553,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 35.56) (xy 266.7 35.56)
+			(xy 294.64 35.56) (xy 292.1 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7459,7 +8563,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 215.9) (xy 264.16 215.9)
+			(xy 220.98 215.9) (xy 289.56 215.9)
 		)
 		(stroke
 			(width 0)
@@ -7469,7 +8573,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 83.82) (xy 281.94 86.36)
+			(xy 307.34 83.82) (xy 307.34 86.36)
 		)
 		(stroke
 			(width 0)
@@ -7479,7 +8583,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 200.66) (xy 289.56 200.66)
+			(xy 312.42 200.66) (xy 314.96 200.66)
 		)
 		(stroke
 			(width 0)
@@ -7489,7 +8593,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 203.2) (xy 254 198.12)
+			(xy 274.32 203.2) (xy 279.4 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7509,7 +8613,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 180.34) (xy 251.46 177.8)
+			(xy 279.4 180.34) (xy 276.86 177.8)
 		)
 		(stroke
 			(width 0)
@@ -7519,7 +8623,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 58.42) (xy 256.54 58.42)
+			(xy 279.4 58.42) (xy 281.94 58.42)
 		)
 		(stroke
 			(width 0)
@@ -7549,7 +8653,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 172.72) (xy 309.88 172.72)
+			(xy 220.98 172.72) (xy 330.2 172.72)
 		)
 		(stroke
 			(width 0)
@@ -7589,7 +8693,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 40.64) (xy 254 35.56)
+			(xy 274.32 40.64) (xy 279.4 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7599,7 +8703,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 81.28) (xy 289.56 88.9)
+			(xy 314.96 81.28) (xy 314.96 88.9)
 		)
 		(stroke
 			(width 0)
@@ -7609,7 +8713,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 203.2) (xy 248.92 203.2)
+			(xy 220.98 203.2) (xy 274.32 203.2)
 		)
 		(stroke
 			(width 0)
@@ -7619,7 +8723,17 @@
 	)
 	(wire
 		(pts
-			(xy 254 220.98) (xy 251.46 218.44)
+			(xy 264.16 220.98) (xy 264.16 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "975a0db0-e085-462b-9961-e769f9705475")
+	)
+	(wire
+		(pts
+			(xy 279.4 220.98) (xy 276.86 218.44)
 		)
 		(stroke
 			(width 0)
@@ -7639,7 +8753,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 203.2) (xy 289.56 210.82)
+			(xy 314.96 203.2) (xy 314.96 210.82)
 		)
 		(stroke
 			(width 0)
@@ -7649,7 +8763,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 78.74) (xy 289.56 78.74)
+			(xy 312.42 78.74) (xy 314.96 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7669,7 +8783,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 220.98) (xy 254 220.98)
+			(xy 241.3 220.98) (xy 264.16 220.98)
 		)
 		(stroke
 			(width 0.508)
@@ -7679,7 +8793,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 170.18) (xy 289.56 170.18)
+			(xy 220.98 170.18) (xy 314.96 170.18)
 		)
 		(stroke
 			(width 0)
@@ -7689,7 +8803,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 157.48) (xy 289.56 160.02)
+			(xy 314.96 157.48) (xy 314.96 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7709,7 +8823,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 116.84) (xy 269.24 116.84)
+			(xy 292.1 116.84) (xy 294.64 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7729,7 +8843,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 162.56) (xy 289.56 170.18)
+			(xy 314.96 162.56) (xy 314.96 170.18)
 		)
 		(stroke
 			(width 0)
@@ -7779,7 +8893,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 93.98) (xy 264.16 93.98)
+			(xy 220.98 93.98) (xy 289.56 93.98)
 		)
 		(stroke
 			(width 0)
@@ -7789,7 +8903,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 124.46) (xy 269.24 116.84)
+			(xy 287.02 124.46) (xy 294.64 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7809,7 +8923,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 116.84) (xy 254 116.84)
+			(xy 256.54 116.84) (xy 279.4 116.84)
 		)
 		(stroke
 			(width 0.508)
@@ -7819,7 +8933,17 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 55.88) (xy 251.46 55.88)
+			(xy 254 226.06) (xy 256.54 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1491372-8aad-4391-b613-1e143ececf47")
+	)
+	(wire
+		(pts
+			(xy 220.98 55.88) (xy 276.86 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7829,7 +8953,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 35.56) (xy 271.78 35.56)
+			(xy 294.64 35.56) (xy 297.18 35.56)
 		)
 		(stroke
 			(width 0)
@@ -7839,7 +8963,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 198.12) (xy 289.56 198.12)
+			(xy 312.42 198.12) (xy 314.96 198.12)
 		)
 		(stroke
 			(width 0)
@@ -7859,7 +8983,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 160.02) (xy 289.56 162.56)
+			(xy 314.96 160.02) (xy 314.96 162.56)
 		)
 		(stroke
 			(width 0)
@@ -7869,7 +8993,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 76.2) (xy 266.7 76.2)
+			(xy 294.64 76.2) (xy 292.1 76.2)
 		)
 		(stroke
 			(width 0)
@@ -7889,7 +9013,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 91.44) (xy 309.88 91.44)
+			(xy 220.98 91.44) (xy 330.2 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7899,7 +9023,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 180.34) (xy 309.88 180.34)
+			(xy 294.64 180.34) (xy 330.2 180.34)
 		)
 		(stroke
 			(width 0.508)
@@ -7909,7 +9033,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 208.28) (xy 281.94 208.28)
+			(xy 220.98 208.28) (xy 307.34 208.28)
 		)
 		(stroke
 			(width 0)
@@ -7919,7 +9043,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 35.56) (xy 289.56 38.1)
+			(xy 314.96 35.56) (xy 314.96 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7959,7 +9083,17 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 58.42) (xy 309.88 58.42)
+			(xy 264.16 220.98) (xy 269.24 220.98)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "c2916bb4-d2ba-4958-975a-1fcd9366d6c0")
+	)
+	(wire
+		(pts
+			(xy 294.64 58.42) (xy 330.2 58.42)
 		)
 		(stroke
 			(width 0.508)
@@ -7969,7 +9103,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 93.98) (xy 269.24 99.06)
+			(xy 289.56 93.98) (xy 294.64 99.06)
 		)
 		(stroke
 			(width 0)
@@ -7979,7 +9113,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 218.44) (xy 251.46 218.44)
+			(xy 243.84 218.44) (xy 276.86 218.44)
 		)
 		(stroke
 			(width 0)
@@ -8009,7 +9143,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 205.74) (xy 281.94 208.28)
+			(xy 307.34 205.74) (xy 307.34 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8019,17 +9153,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 220.98) (xy 241.3 228.6)
-		)
-		(stroke
-			(width 0.508)
-			(type default)
-		)
-		(uuid "c98b7148-4b2d-4082-9257-f15027aec3e6")
-	)
-	(wire
-		(pts
-			(xy 246.38 35.56) (xy 254 35.56)
+			(xy 256.54 35.56) (xy 279.4 35.56)
 		)
 		(stroke
 			(width 0.508)
@@ -8039,7 +9163,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 78.74) (xy 289.56 81.28)
+			(xy 314.96 78.74) (xy 314.96 81.28)
 		)
 		(stroke
 			(width 0)
@@ -8059,7 +9183,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 40.64) (xy 289.56 40.64)
+			(xy 312.42 40.64) (xy 314.96 40.64)
 		)
 		(stroke
 			(width 0)
@@ -8069,7 +9193,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 180.34) (xy 254 180.34)
+			(xy 241.3 180.34) (xy 279.4 180.34)
 		)
 		(stroke
 			(width 0.508)
@@ -8079,7 +9203,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 200.66) (xy 309.88 200.66)
+			(xy 314.96 200.66) (xy 330.2 200.66)
 		)
 		(stroke
 			(width 0.508)
@@ -8089,7 +9213,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 160.02) (xy 289.56 160.02)
+			(xy 312.42 160.02) (xy 314.96 160.02)
 		)
 		(stroke
 			(width 0)
@@ -8099,7 +9223,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 139.7) (xy 311.15 139.7)
+			(xy 294.64 139.7) (xy 331.47 139.7)
 		)
 		(stroke
 			(width 0.508)
@@ -8139,7 +9263,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 88.9) (xy 289.56 88.9)
+			(xy 220.98 88.9) (xy 314.96 88.9)
 		)
 		(stroke
 			(width 0)
@@ -8149,7 +9273,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 45.72) (xy 281.94 45.72)
+			(xy 220.98 45.72) (xy 307.34 45.72)
 		)
 		(stroke
 			(width 0)
@@ -8159,7 +9283,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 157.48) (xy 271.78 157.48)
+			(xy 294.64 157.48) (xy 297.18 157.48)
 		)
 		(stroke
 			(width 0)
@@ -8169,7 +9293,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 83.82) (xy 261.62 83.82)
+			(xy 220.98 83.82) (xy 287.02 83.82)
 		)
 		(stroke
 			(width 0)
@@ -8179,7 +9303,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 99.06) (xy 254 99.06)
+			(xy 241.3 99.06) (xy 279.4 99.06)
 		)
 		(stroke
 			(width 0.508)
@@ -8189,7 +9313,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 76.2) (xy 254 76.2)
+			(xy 256.54 76.2) (xy 279.4 76.2)
 		)
 		(stroke
 			(width 0.508)
@@ -8209,7 +9333,27 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 58.42) (xy 254 58.42)
+			(xy 266.7 246.38) (xy 266.7 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df09b75c-cd14-49f4-89c5-b3ca8f3ee94d")
+	)
+	(wire
+		(pts
+			(xy 266.7 246.38) (xy 269.24 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e17648ac-26f7-4c94-ac71-990a0dea1e01")
+	)
+	(wire
+		(pts
+			(xy 241.3 58.42) (xy 279.4 58.42)
 		)
 		(stroke
 			(width 0.508)
@@ -8239,7 +9383,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 38.1) (xy 289.56 38.1)
+			(xy 312.42 38.1) (xy 314.96 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8249,7 +9393,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 198.12) (xy 271.78 198.12)
+			(xy 294.64 198.12) (xy 297.18 198.12)
 		)
 		(stroke
 			(width 0)
@@ -8259,7 +9403,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 35.56) (xy 254 35.56)
+			(xy 281.94 35.56) (xy 279.4 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8269,7 +9413,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 137.16) (xy 251.46 137.16)
+			(xy 243.84 137.16) (xy 276.86 137.16)
 		)
 		(stroke
 			(width 0)
@@ -8279,13 +9423,23 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 53.34) (xy 269.24 58.42)
+			(xy 289.56 53.34) (xy 294.64 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eae94979-06f6-438b-a4a6-8d2fcd681867")
+	)
+	(wire
+		(pts
+			(xy 264.16 246.38) (xy 266.7 246.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebd29ab6-efff-41ba-be6f-c27a0fcd353a")
 	)
 	(wire
 		(pts
@@ -8309,7 +9463,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 76.2) (xy 289.56 78.74)
+			(xy 314.96 76.2) (xy 314.96 78.74)
 		)
 		(stroke
 			(width 0)
@@ -8319,7 +9473,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 165.1) (xy 281.94 167.64)
+			(xy 307.34 165.1) (xy 307.34 167.64)
 		)
 		(stroke
 			(width 0)
@@ -8339,7 +9493,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 205.74) (xy 261.62 205.74)
+			(xy 220.98 205.74) (xy 287.02 205.74)
 		)
 		(stroke
 			(width 0)
@@ -8349,7 +9503,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 198.12) (xy 289.56 200.66)
+			(xy 314.96 198.12) (xy 314.96 200.66)
 		)
 		(stroke
 			(width 0)
@@ -8359,7 +9513,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 160.02) (xy 309.88 160.02)
+			(xy 314.96 160.02) (xy 330.2 160.02)
 		)
 		(stroke
 			(width 0.508)
@@ -8369,7 +9523,7 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 116.84) (xy 289.56 116.84)
+			(xy 312.42 116.84) (xy 314.96 116.84)
 		)
 		(stroke
 			(width 0)
@@ -8379,7 +9533,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 40.64) (xy 289.56 48.26)
+			(xy 314.96 40.64) (xy 314.96 48.26)
 		)
 		(stroke
 			(width 0)
@@ -8399,7 +9553,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 220.98) (xy 309.88 220.98)
+			(xy 294.64 220.98) (xy 330.2 220.98)
 		)
 		(stroke
 			(width 0.508)
@@ -8409,7 +9563,7 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 76.2) (xy 254 76.2)
+			(xy 281.94 76.2) (xy 279.4 76.2)
 		)
 		(stroke
 			(width 0)
@@ -8419,7 +9573,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 99.06) (xy 309.88 99.06)
+			(xy 294.64 99.06) (xy 330.2 99.06)
 		)
 		(stroke
 			(width 0.508)
@@ -8429,7 +9583,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 86.36) (xy 281.94 86.36)
+			(xy 220.98 86.36) (xy 307.34 86.36)
 		)
 		(stroke
 			(width 0)
@@ -8439,7 +9593,7 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 124.46) (xy 281.94 127)
+			(xy 307.34 124.46) (xy 307.34 127)
 		)
 		(stroke
 			(width 0)
@@ -8449,7 +9603,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 139.7) (xy 256.54 139.7)
+			(xy 279.4 139.7) (xy 281.94 139.7)
 		)
 		(stroke
 			(width 0)
@@ -8459,7 +9613,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 30.48) (xy 246.38 35.56)
+			(xy 256.54 30.48) (xy 256.54 35.56)
 		)
 		(stroke
 			(width 0.508)
@@ -8469,7 +9623,7 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 116.84) (xy 289.56 119.38)
+			(xy 314.96 116.84) (xy 314.96 119.38)
 		)
 		(stroke
 			(width 0)
@@ -8477,8 +9631,18 @@
 		)
 		(uuid "ff87ee03-db00-4ae3-bacc-1d556a2229d6")
 	)
+	(wire
+		(pts
+			(xy 269.24 220.98) (xy 269.24 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffef57a9-2a91-41af-96f2-271ba0bff11e")
+	)
 	(label "OUTM3"
-		(at 309.88 180.34 0)
+		(at 330.2 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8498,7 +9662,7 @@
 		(uuid "048feb7b-4497-4cf0-9b3b-c385f7215880")
 	)
 	(label "SW0"
-		(at 309.88 50.8 0)
+		(at 330.2 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8508,7 +9672,7 @@
 		(uuid "09d90ce8-cb0d-4494-9952-b2bec5a8776c")
 	)
 	(label "SW2"
-		(at 309.88 132.08 0)
+		(at 330.2 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8568,7 +9732,7 @@
 		(uuid "30db1549-2c03-4d1b-baeb-9d96ff20b881")
 	)
 	(label "OUTP3"
-		(at 309.88 160.02 0)
+		(at 330.2 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8598,7 +9762,7 @@
 		(uuid "4067093c-a018-441e-901f-8b6e83ac7d01")
 	)
 	(label "OUTM2"
-		(at 311.15 139.7 0)
+		(at 331.47 139.7 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8668,7 +9832,7 @@
 		(uuid "772905fb-cba6-4126-9757-30de7afd9665")
 	)
 	(label "OUTM4"
-		(at 309.88 220.98 0)
+		(at 330.2 220.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8678,7 +9842,7 @@
 		(uuid "7c026aa2-5d0a-47f7-802a-7f6243f174b4")
 	)
 	(label "SW4"
-		(at 309.88 213.36 0)
+		(at 330.2 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8718,7 +9882,7 @@
 		(uuid "a2153aac-38b4-4b69-bab4-9c8c9ab9e90d")
 	)
 	(label "OUTM1"
-		(at 309.88 99.06 0)
+		(at 330.2 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8728,7 +9892,7 @@
 		(uuid "a8277a5f-99d8-4af1-a1d6-9446e153203a")
 	)
 	(label "OUTP2"
-		(at 309.88 119.38 0)
+		(at 330.2 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8738,7 +9902,7 @@
 		(uuid "a856170b-7cb3-46a3-8c3c-d4e719b272c5")
 	)
 	(label "OUTP0"
-		(at 309.88 38.1 0)
+		(at 330.2 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8758,7 +9922,7 @@
 		(uuid "b0980427-ec08-49b7-ada7-413e5cd9842e")
 	)
 	(label "LSNS"
-		(at 241.3 228.6 90)
+		(at 243.84 220.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8778,7 +9942,7 @@
 		(uuid "c7252edd-20ce-48de-974a-4d5ade29e2d2")
 	)
 	(label "OUTM0"
-		(at 309.88 58.42 0)
+		(at 330.2 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8788,7 +9952,7 @@
 		(uuid "ca09204e-3b69-4e77-a9c0-5ea449a022b8")
 	)
 	(label "SW3"
-		(at 309.88 172.72 0)
+		(at 330.2 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8798,7 +9962,7 @@
 		(uuid "ca3e5bcf-3805-4c83-97d4-086f78a91afa")
 	)
 	(label "OUTP4"
-		(at 309.88 200.66 0)
+		(at 330.2 200.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8808,7 +9972,7 @@
 		(uuid "ca57b593-b5c6-416e-8d87-7ecd447a94e6")
 	)
 	(label "SW1"
-		(at 309.88 91.44 0)
+		(at 330.2 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8818,7 +9982,7 @@
 		(uuid "d3a66845-d88c-4618-9bea-0cafa54cd088")
 	)
 	(label "OUTP1"
-		(at 309.88 78.74 0)
+		(at 330.2 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8866,6 +10030,203 @@
 			(justify left bottom)
 		)
 		(uuid "f910bb71-ca9d-4fd7-8f1d-2bf13c20afcc")
+	)
+	(symbol
+		(lib_id "RESISTORS_ERJ-3GEY0_DATA_BASE:R_ERJ-3GEY0R00V")
+		(at 269.24 238.76 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "008d870d-27e3-4b79-9af4-2385d4496e90")
+		(property "Reference" "R21"
+			(at 271.78 237.4899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "0 mΩ"
+			(at 271.78 240.0299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "resistor_footprints:R_0603_1608Metric"
+			(at 274.32 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"
+			(at 276.86 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES SMD 0 mΩ 5% 0603 75V"
+			(at 279.4 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "0603"
+			(at 281.94 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "1608"
+			(at 284.48 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 287.02 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-3GEY0R00V"
+			(at 289.56 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 292.1 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "ERJ-3GEY0"
+			(at 294.64 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "R_ERJ-3GEY0R00V"
+			(at 297.18 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "200 ppm/°C"
+			(at 299.72 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 302.26 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3GEY0R00V"
+			(at 304.8 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "75V"
+			(at 307.34 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0492e584-3b4d-4a84-8a72-93057f6146c2")
+		)
+		(pin "1"
+			(uuid "3382d06e-ed07-4649-8920-5f7b6b75827c")
+		)
+		(instances
+			(project ""
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "CAPACITORS_C1608X7S2A_DATA_BASE:C_C1608X7S2A104K080AB")
@@ -9065,7 +10426,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_PSMN075-100MSEX_DATA_BASE:Q_PSMN075-100MSEX")
-		(at 279.4 199.39 0)
+		(at 304.8 199.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9074,7 +10435,7 @@
 		(fields_autoplaced yes)
 		(uuid "01785a63-5bb6-40d8-8dde-43850b9f39fa")
 		(property "Reference" "Q2"
-			(at 279.4 193.04 0)
+			(at 304.8 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9082,7 +10443,7 @@
 			)
 		)
 		(property "Value" "100.0 V"
-			(at 279.4 195.58 0)
+			(at 304.8 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9090,7 +10451,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:LFPAK33-8"
-			(at 279.4 209.55 0)
+			(at 304.8 209.55 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9101,7 +10462,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN075-100MSE.pdf"
-			(at 279.4 212.09 0)
+			(at 304.8 212.09 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9112,7 +10473,7 @@
 			)
 		)
 		(property "Description" "Transistor 100.0 V"
-			(at 279.4 214.63 0)
+			(at 304.8 214.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9123,7 +10484,7 @@
 			)
 		)
 		(property "Collector Current (A)" "-"
-			(at 279.4 217.17 0)
+			(at 304.8 217.17 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9134,7 +10495,7 @@
 			)
 		)
 		(property "Drain Current (A)" "18.0"
-			(at 279.4 219.71 0)
+			(at 304.8 219.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9145,7 +10506,7 @@
 			)
 		)
 		(property "MPN" "PSMN075-100MSEX"
-			(at 279.4 222.25 0)
+			(at 304.8 222.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9156,7 +10517,7 @@
 			)
 		)
 		(property "Manufacturer" "Nexperia"
-			(at 279.4 224.79 0)
+			(at 304.8 224.79 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9167,7 +10528,7 @@
 			)
 		)
 		(property "Series" "PSMN075-100MSEX"
-			(at 279.4 227.33 0)
+			(at 304.8 227.33 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9178,7 +10539,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_PSMN075-100MSEX"
-			(at 279.4 229.87 0)
+			(at 304.8 229.87 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9189,7 +10550,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 279.4 232.41 0)
+			(at 304.8 232.41 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9200,7 +10561,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
-			(at 279.4 234.95 0)
+			(at 304.8 234.95 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9236,7 +10597,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
-		(at 261.62 58.42 0)
+		(at 287.02 58.42 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9246,7 +10607,7 @@
 		(fields_autoplaced yes)
 		(uuid "0272b6d9-d728-4f1a-a263-ae6dc01e7377")
 		(property "Reference" "R14"
-			(at 261.62 62.23 0)
+			(at 287.02 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9254,7 +10615,7 @@
 			)
 		)
 		(property "Value" "390 mΩ"
-			(at 261.62 64.77 0)
+			(at 287.02 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9262,7 +10623,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 53.34 0)
+			(at 287.02 53.34 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9273,7 +10634,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 50.8 0)
+			(at 287.02 50.8 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9284,7 +10645,7 @@
 			)
 		)
 		(property "Description" "RES SMD 390 mΩ 1% 0612"
-			(at 261.62 48.26 0)
+			(at 287.02 48.26 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9295,7 +10656,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 45.72 0)
+			(at 287.02 45.72 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9306,7 +10667,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 43.18 0)
+			(at 287.02 43.18 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9317,7 +10678,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 40.64 0)
+			(at 287.02 40.64 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9328,7 +10689,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2BFR39V"
-			(at 261.62 38.1 0)
+			(at 287.02 38.1 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9339,7 +10700,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 35.56 0)
+			(at 287.02 35.56 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9350,7 +10711,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2BF"
-			(at 261.62 33.02 0)
+			(at 287.02 33.02 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9361,7 +10722,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2BFR39V"
-			(at 261.62 30.48 0)
+			(at 287.02 30.48 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9372,7 +10733,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 27.94 0)
+			(at 287.02 27.94 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9383,7 +10744,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 25.4 0)
+			(at 287.02 25.4 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9394,7 +10755,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
-			(at 261.62 22.86 0)
+			(at 287.02 22.86 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9405,7 +10766,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 20.32 0)
+			(at 287.02 20.32 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9432,7 +10793,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_PSMN075-100MSEX_DATA_BASE:Q_PSMN075-100MSEX")
-		(at 279.4 118.11 0)
+		(at 304.8 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9441,7 +10802,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c2ec892-e774-4124-8ee8-e1e8f8b64482")
 		(property "Reference" "Q4"
-			(at 279.4 111.76 0)
+			(at 304.8 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9449,7 +10810,7 @@
 			)
 		)
 		(property "Value" "100.0 V"
-			(at 279.4 114.3 0)
+			(at 304.8 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9457,7 +10818,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:LFPAK33-8"
-			(at 279.4 128.27 0)
+			(at 304.8 128.27 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9468,7 +10829,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN075-100MSE.pdf"
-			(at 279.4 130.81 0)
+			(at 304.8 130.81 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9479,7 +10840,7 @@
 			)
 		)
 		(property "Description" "Transistor 100.0 V"
-			(at 279.4 133.35 0)
+			(at 304.8 133.35 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9490,7 +10851,7 @@
 			)
 		)
 		(property "Collector Current (A)" "-"
-			(at 279.4 135.89 0)
+			(at 304.8 135.89 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9501,7 +10862,7 @@
 			)
 		)
 		(property "Drain Current (A)" "18.0"
-			(at 279.4 138.43 0)
+			(at 304.8 138.43 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9512,7 +10873,7 @@
 			)
 		)
 		(property "MPN" "PSMN075-100MSEX"
-			(at 279.4 140.97 0)
+			(at 304.8 140.97 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9523,7 +10884,7 @@
 			)
 		)
 		(property "Manufacturer" "Nexperia"
-			(at 279.4 143.51 0)
+			(at 304.8 143.51 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9534,7 +10895,7 @@
 			)
 		)
 		(property "Series" "PSMN075-100MSEX"
-			(at 279.4 146.05 0)
+			(at 304.8 146.05 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9545,7 +10906,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_PSMN075-100MSEX"
-			(at 279.4 148.59 0)
+			(at 304.8 148.59 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9556,7 +10917,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 279.4 151.13 0)
+			(at 304.8 151.13 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9567,7 +10928,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
-			(at 279.4 153.67 0)
+			(at 304.8 153.67 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9603,7 +10964,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
-		(at 261.62 198.12 0)
+		(at 287.02 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9612,7 +10973,7 @@
 		(fields_autoplaced yes)
 		(uuid "24419c7f-8c0c-4f55-a4fa-e63cb2264eae")
 		(property "Reference" "R15"
-			(at 261.62 191.77 0)
+			(at 287.02 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9620,7 +10981,7 @@
 			)
 		)
 		(property "Value" "24 mΩ"
-			(at 261.62 194.31 0)
+			(at 287.02 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9628,7 +10989,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 203.2 0)
+			(at 287.02 203.2 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9639,7 +11000,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 205.74 0)
+			(at 287.02 205.74 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9650,7 +11011,7 @@
 			)
 		)
 		(property "Description" "RES SMD 24 mΩ 1% 0612"
-			(at 261.62 208.28 0)
+			(at 287.02 208.28 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9661,7 +11022,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 210.82 0)
+			(at 287.02 210.82 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9672,7 +11033,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 213.36 0)
+			(at 287.02 213.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9683,7 +11044,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 215.9 0)
+			(at 287.02 215.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9694,7 +11055,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2CFR024V"
-			(at 261.62 218.44 0)
+			(at 287.02 218.44 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9705,7 +11066,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 220.98 0)
+			(at 287.02 220.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9716,7 +11077,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2CF"
-			(at 261.62 223.52 0)
+			(at 287.02 223.52 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9727,7 +11088,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2CFR024V"
-			(at 261.62 226.06 0)
+			(at 287.02 226.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9738,7 +11099,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 228.6 0)
+			(at 287.02 228.6 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9749,7 +11110,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 231.14 0)
+			(at 287.02 231.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9760,7 +11121,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
-			(at 261.62 233.68 0)
+			(at 287.02 233.68 0)
 			(show_name yes)
 			(effects
 				(font
@@ -9771,7 +11132,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 236.22 0)
+			(at 287.02 236.22 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10191,7 +11552,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_PSMN040-100MSEX_DATA_BASE:Q_PSMN040-100MSEX")
-		(at 279.4 158.75 0)
+		(at 304.8 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10200,7 +11561,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cbcf29f-a009-4d50-9122-16cf0d2f85ad")
 		(property "Reference" "Q3"
-			(at 279.4 152.4 0)
+			(at 304.8 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10208,7 +11569,7 @@
 			)
 		)
 		(property "Value" "100.0 V"
-			(at 279.4 154.94 0)
+			(at 304.8 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10216,7 +11577,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:LFPAK33-8"
-			(at 279.4 168.91 0)
+			(at 304.8 168.91 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10227,7 +11588,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN040-100MSE.pdf"
-			(at 279.4 171.45 0)
+			(at 304.8 171.45 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10238,7 +11599,7 @@
 			)
 		)
 		(property "Description" "Transistor 100.0 V"
-			(at 279.4 173.99 0)
+			(at 304.8 173.99 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10249,7 +11610,7 @@
 			)
 		)
 		(property "Collector Current (A)" "-"
-			(at 279.4 176.53 0)
+			(at 304.8 176.53 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10260,7 +11621,7 @@
 			)
 		)
 		(property "Drain Current (A)" "30.0"
-			(at 279.4 179.07 0)
+			(at 304.8 179.07 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10271,7 +11632,7 @@
 			)
 		)
 		(property "MPN" "PSMN040-100MSEX"
-			(at 279.4 181.61 0)
+			(at 304.8 181.61 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10282,7 +11643,7 @@
 			)
 		)
 		(property "Manufacturer" "Nexperia"
-			(at 279.4 184.15 0)
+			(at 304.8 184.15 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10293,7 +11654,7 @@
 			)
 		)
 		(property "Series" "PSMN040-100MSEX"
-			(at 279.4 186.69 0)
+			(at 304.8 186.69 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10304,7 +11665,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_PSMN040-100MSEX"
-			(at 279.4 189.23 0)
+			(at 304.8 189.23 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10315,7 +11676,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 279.4 191.77 0)
+			(at 304.8 191.77 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10326,7 +11687,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN040-100MSEX"
-			(at 279.4 194.31 0)
+			(at 304.8 194.31 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10355,6 +11716,72 @@
 			(project ""
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 266.7 247.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2fc817fa-8689-4aaa-8d98-c58edc4beb46")
+		(property "Reference" "#PWR010"
+			(at 266.7 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 266.7 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 266.7 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c7ae107c-0d04-4e59-b913-9e4673e453ff")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -10494,7 +11921,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
-		(at 261.62 180.34 0)
+		(at 287.02 180.34 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10504,7 +11931,7 @@
 		(fields_autoplaced yes)
 		(uuid "3691e774-7af8-4970-a8f0-22475edb50ce")
 		(property "Reference" "R10"
-			(at 261.62 184.15 0)
+			(at 287.02 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10512,7 +11939,7 @@
 			)
 		)
 		(property "Value" "24 mΩ"
-			(at 261.62 186.69 0)
+			(at 287.02 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10520,7 +11947,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 175.26 0)
+			(at 287.02 175.26 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10531,7 +11958,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 172.72 0)
+			(at 287.02 172.72 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10542,7 +11969,7 @@
 			)
 		)
 		(property "Description" "RES SMD 24 mΩ 1% 0612"
-			(at 261.62 170.18 0)
+			(at 287.02 170.18 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10553,7 +11980,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 167.64 0)
+			(at 287.02 167.64 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10564,7 +11991,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 165.1 0)
+			(at 287.02 165.1 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10575,7 +12002,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 162.56 0)
+			(at 287.02 162.56 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10586,7 +12013,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2CFR024V"
-			(at 261.62 160.02 0)
+			(at 287.02 160.02 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10597,7 +12024,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 157.48 0)
+			(at 287.02 157.48 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10608,7 +12035,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2CF"
-			(at 261.62 154.94 0)
+			(at 287.02 154.94 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10619,7 +12046,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2CFR024V"
-			(at 261.62 152.4 0)
+			(at 287.02 152.4 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10630,7 +12057,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 149.86 0)
+			(at 287.02 149.86 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10641,7 +12068,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 147.32 0)
+			(at 287.02 147.32 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10652,7 +12079,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
-			(at 261.62 144.78 0)
+			(at 287.02 144.78 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10663,7 +12090,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 142.24 0)
+			(at 287.02 142.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10888,7 +12315,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_PRL1632-_DATA_BASE:R_PRL1632-R062-F-T1")
-		(at 261.62 220.98 0)
+		(at 287.02 220.98 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10897,7 +12324,7 @@
 		(dnp no)
 		(uuid "592c1d8b-2106-412d-a99c-def0e83d37ff")
 		(property "Reference" "R11"
-			(at 261.62 227.33 0)
+			(at 287.02 227.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10905,7 +12332,7 @@
 			)
 		)
 		(property "Value" "62 mΩ"
-			(at 261.62 224.79 0)
+			(at 287.02 224.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10913,7 +12340,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 215.9 0)
+			(at 287.02 215.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10924,7 +12351,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf"
-			(at 261.62 213.36 0)
+			(at 287.02 213.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10935,7 +12362,7 @@
 			)
 		)
 		(property "Description" "RES SMD 62 mΩ 1% 0612"
-			(at 261.62 210.82 0)
+			(at 287.02 210.82 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10946,7 +12373,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 208.28 0)
+			(at 287.02 208.28 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10957,7 +12384,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 205.74 0)
+			(at 287.02 205.74 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10968,7 +12395,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 203.2 0)
+			(at 287.02 203.2 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10979,7 +12406,7 @@
 			)
 		)
 		(property "MPN" "PRL1632-R062-F-T1"
-			(at 261.62 200.66 0)
+			(at 287.02 200.66 0)
 			(show_name yes)
 			(effects
 				(font
@@ -10990,7 +12417,7 @@
 			)
 		)
 		(property "Manufacturer" "Susumu"
-			(at 261.62 198.12 0)
+			(at 287.02 198.12 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11001,7 +12428,7 @@
 			)
 		)
 		(property "Series" "PRL1632-"
-			(at 261.62 195.58 0)
+			(at 287.02 195.58 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11012,7 +12439,7 @@
 			)
 		)
 		(property "Symbol Name" "R_PRL1632-R062-F-T1"
-			(at 261.62 193.04 0)
+			(at 287.02 193.04 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11023,7 +12450,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 190.5 0)
+			(at 287.02 190.5 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11034,7 +12461,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 187.96 0)
+			(at 287.02 187.96 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11045,7 +12472,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PRL1632-R062-F-T1"
-			(at 261.62 185.42 0)
+			(at 287.02 185.42 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11056,7 +12483,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 182.88 0)
+			(at 287.02 182.88 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11280,7 +12707,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_PRL1632-_DATA_BASE:R_PRL1632-R062-F-T1")
-		(at 261.62 139.7 0)
+		(at 287.02 139.7 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11289,7 +12716,7 @@
 		(dnp no)
 		(uuid "5fa7ed3b-0633-43c9-9649-46b48d1b005f")
 		(property "Reference" "R13"
-			(at 261.62 146.05 0)
+			(at 287.02 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11297,7 +12724,7 @@
 			)
 		)
 		(property "Value" "62 mΩ"
-			(at 261.62 143.51 0)
+			(at 287.02 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11305,7 +12732,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 134.62 0)
+			(at 287.02 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11316,7 +12743,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf"
-			(at 261.62 132.08 0)
+			(at 287.02 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11327,7 +12754,7 @@
 			)
 		)
 		(property "Description" "RES SMD 62 mΩ 1% 0612"
-			(at 261.62 129.54 0)
+			(at 287.02 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11338,7 +12765,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 127 0)
+			(at 287.02 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11349,7 +12776,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 124.46 0)
+			(at 287.02 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11360,7 +12787,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 121.92 0)
+			(at 287.02 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11371,7 +12798,7 @@
 			)
 		)
 		(property "MPN" "PRL1632-R062-F-T1"
-			(at 261.62 119.38 0)
+			(at 287.02 119.38 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11382,7 +12809,7 @@
 			)
 		)
 		(property "Manufacturer" "Susumu"
-			(at 261.62 116.84 0)
+			(at 287.02 116.84 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11393,7 +12820,7 @@
 			)
 		)
 		(property "Series" "PRL1632-"
-			(at 261.62 114.3 0)
+			(at 287.02 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11404,7 +12831,7 @@
 			)
 		)
 		(property "Symbol Name" "R_PRL1632-R062-F-T1"
-			(at 261.62 111.76 0)
+			(at 287.02 111.76 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11415,7 +12842,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 109.22 0)
+			(at 287.02 109.22 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11426,7 +12853,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 106.68 0)
+			(at 287.02 106.68 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11437,7 +12864,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PRL1632-R062-F-T1"
-			(at 261.62 104.14 0)
+			(at 287.02 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11448,7 +12875,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 101.6 0)
+			(at 287.02 101.6 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11869,7 +13296,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
-		(at 261.62 157.48 0)
+		(at 287.02 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11878,7 +13305,7 @@
 		(fields_autoplaced yes)
 		(uuid "7e4ba97b-ae5e-476a-a10b-4fe26697af7a")
 		(property "Reference" "R16"
-			(at 261.62 151.13 0)
+			(at 287.02 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11886,7 +13313,7 @@
 			)
 		)
 		(property "Value" "390 mΩ"
-			(at 261.62 153.67 0)
+			(at 287.02 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11894,7 +13321,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 162.56 0)
+			(at 287.02 162.56 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11905,7 +13332,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 165.1 0)
+			(at 287.02 165.1 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11916,7 +13343,7 @@
 			)
 		)
 		(property "Description" "RES SMD 390 mΩ 1% 0612"
-			(at 261.62 167.64 0)
+			(at 287.02 167.64 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11927,7 +13354,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 170.18 0)
+			(at 287.02 170.18 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11938,7 +13365,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 172.72 0)
+			(at 287.02 172.72 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11949,7 +13376,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 175.26 0)
+			(at 287.02 175.26 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11960,7 +13387,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2BFR39V"
-			(at 261.62 177.8 0)
+			(at 287.02 177.8 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11971,7 +13398,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 180.34 0)
+			(at 287.02 180.34 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11982,7 +13409,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2BF"
-			(at 261.62 182.88 0)
+			(at 287.02 182.88 0)
 			(show_name yes)
 			(effects
 				(font
@@ -11993,7 +13420,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2BFR39V"
-			(at 261.62 185.42 0)
+			(at 287.02 185.42 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12004,7 +13431,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 187.96 0)
+			(at 287.02 187.96 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12015,7 +13442,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 190.5 0)
+			(at 287.02 190.5 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12026,7 +13453,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
-			(at 261.62 193.04 0)
+			(at 287.02 193.04 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12037,7 +13464,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 195.58 0)
+			(at 287.02 195.58 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12654,7 +14081,7 @@
 	)
 	(symbol
 		(lib_id "TRANSISTORS_PSMN075-100MSEX_DATA_BASE:Q_PSMN075-100MSEX")
-		(at 279.4 36.83 0)
+		(at 304.8 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12663,7 +14090,7 @@
 		(fields_autoplaced yes)
 		(uuid "892808a1-18d6-40c7-91c2-d525b3b0f6fc")
 		(property "Reference" "Q5"
-			(at 279.4 30.48 0)
+			(at 304.8 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12671,7 +14098,7 @@
 			)
 		)
 		(property "Value" "100.0 V"
-			(at 279.4 33.02 0)
+			(at 304.8 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12679,7 +14106,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:LFPAK33-8"
-			(at 279.4 46.99 0)
+			(at 304.8 46.99 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12690,7 +14117,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN075-100MSE.pdf"
-			(at 279.4 49.53 0)
+			(at 304.8 49.53 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12701,7 +14128,7 @@
 			)
 		)
 		(property "Description" "Transistor 100.0 V"
-			(at 279.4 52.07 0)
+			(at 304.8 52.07 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12712,7 +14139,7 @@
 			)
 		)
 		(property "Collector Current (A)" "-"
-			(at 279.4 54.61 0)
+			(at 304.8 54.61 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12723,7 +14150,7 @@
 			)
 		)
 		(property "Drain Current (A)" "18.0"
-			(at 279.4 57.15 0)
+			(at 304.8 57.15 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12734,7 +14161,7 @@
 			)
 		)
 		(property "MPN" "PSMN075-100MSEX"
-			(at 279.4 59.69 0)
+			(at 304.8 59.69 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12745,7 +14172,7 @@
 			)
 		)
 		(property "Manufacturer" "Nexperia"
-			(at 279.4 62.23 0)
+			(at 304.8 62.23 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12756,7 +14183,7 @@
 			)
 		)
 		(property "Series" "PSMN075-100MSEX"
-			(at 279.4 64.77 0)
+			(at 304.8 64.77 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12767,7 +14194,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_PSMN075-100MSEX"
-			(at 279.4 67.31 0)
+			(at 304.8 67.31 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12778,7 +14205,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 279.4 69.85 0)
+			(at 304.8 69.85 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12789,7 +14216,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN075-100MSEX"
-			(at 279.4 72.39 0)
+			(at 304.8 72.39 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12825,7 +14252,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
-		(at 261.62 116.84 0)
+		(at 287.02 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12834,7 +14261,7 @@
 		(fields_autoplaced yes)
 		(uuid "8f170b49-edf2-4824-b898-25b0d54e9607")
 		(property "Reference" "R17"
-			(at 261.62 110.49 0)
+			(at 287.02 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12842,7 +14269,7 @@
 			)
 		)
 		(property "Value" "24 mΩ"
-			(at 261.62 113.03 0)
+			(at 287.02 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12850,7 +14277,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 121.92 0)
+			(at 287.02 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12861,7 +14288,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 124.46 0)
+			(at 287.02 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12872,7 +14299,7 @@
 			)
 		)
 		(property "Description" "RES SMD 24 mΩ 1% 0612"
-			(at 261.62 127 0)
+			(at 287.02 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12883,7 +14310,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 129.54 0)
+			(at 287.02 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12894,7 +14321,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 132.08 0)
+			(at 287.02 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12905,7 +14332,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 134.62 0)
+			(at 287.02 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12916,7 +14343,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2CFR024V"
-			(at 261.62 137.16 0)
+			(at 287.02 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12927,7 +14354,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 139.7 0)
+			(at 287.02 139.7 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12938,7 +14365,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2CF"
-			(at 261.62 142.24 0)
+			(at 287.02 142.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12949,7 +14376,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2CFR024V"
-			(at 261.62 144.78 0)
+			(at 287.02 144.78 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12960,7 +14387,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 147.32 0)
+			(at 287.02 147.32 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12971,7 +14398,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 149.86 0)
+			(at 287.02 149.86 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12982,7 +14409,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
-			(at 261.62 152.4 0)
+			(at 287.02 152.4 0)
 			(show_name yes)
 			(effects
 				(font
@@ -12993,7 +14420,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 154.94 0)
+			(at 287.02 154.94 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13243,8 +14670,205 @@
 		)
 	)
 	(symbol
+		(lib_id "CAPACITORS_CL31B_DATA_BASE:C_CL31B225KBHNNN#")
+		(at 269.24 227.33 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "98c76791-16f3-4e7e-a1bd-cb8ccb56c3ab")
+		(property "Reference" "C7"
+			(at 273.05 226.0599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2.2 µF"
+			(at 273.05 228.5999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
+			(at 276.86 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL31B225KBHNNN#"
+			(at 279.4 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP SMD 2.2 µF X7R 10% 1206 50V"
+			(at 281.94 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Capacitor Type" "Ceramic"
+			(at 284.48 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "1206"
+			(at 287.02 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "3216"
+			(at 289.56 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 292.1 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL31B225KBHNNN#"
+			(at 294.64 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Samsung Electro-Mechanics"
+			(at 297.18 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "CL31B"
+			(at 299.72 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "C_CL31B225KBHNNN#"
+			(at 302.26 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 304.8 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B225KBHNNN#"
+			(at 307.34 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 309.88 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a79e9ba8-1dc8-4326-838b-3740e81a68f0")
+		)
+		(pin "2"
+			(uuid "0d9482e2-810a-4085-a326-78bc730d8b87")
+		)
+		(instances
+			(project ""
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "TRANSISTORS_PSMN040-100MSEX_DATA_BASE:Q_PSMN040-100MSEX")
-		(at 279.4 77.47 0)
+		(at 304.8 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13253,7 +14877,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0593107-1953-41b5-b354-1c9a81fc5108")
 		(property "Reference" "Q6"
-			(at 279.4 71.12 0)
+			(at 304.8 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13261,7 +14885,7 @@
 			)
 		)
 		(property "Value" "100.0 V"
-			(at 279.4 73.66 0)
+			(at 304.8 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13269,7 +14893,7 @@
 			)
 		)
 		(property "Footprint" "transistor_footprints:LFPAK33-8"
-			(at 279.4 87.63 0)
+			(at 304.8 87.63 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13280,7 +14904,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PSMN040-100MSE.pdf"
-			(at 279.4 90.17 0)
+			(at 304.8 90.17 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13291,7 +14915,7 @@
 			)
 		)
 		(property "Description" "Transistor 100.0 V"
-			(at 279.4 92.71 0)
+			(at 304.8 92.71 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13302,7 +14926,7 @@
 			)
 		)
 		(property "Collector Current (A)" "-"
-			(at 279.4 95.25 0)
+			(at 304.8 95.25 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13313,7 +14937,7 @@
 			)
 		)
 		(property "Drain Current (A)" "30.0"
-			(at 279.4 97.79 0)
+			(at 304.8 97.79 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13324,7 +14948,7 @@
 			)
 		)
 		(property "MPN" "PSMN040-100MSEX"
-			(at 279.4 100.33 0)
+			(at 304.8 100.33 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13335,7 +14959,7 @@
 			)
 		)
 		(property "Manufacturer" "Nexperia"
-			(at 279.4 102.87 0)
+			(at 304.8 102.87 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13346,7 +14970,7 @@
 			)
 		)
 		(property "Series" "PSMN040-100MSEX"
-			(at 279.4 105.41 0)
+			(at 304.8 105.41 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13357,7 +14981,7 @@
 			)
 		)
 		(property "Symbol Name" "Q_PSMN040-100MSEX"
-			(at 279.4 107.95 0)
+			(at 304.8 107.95 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13368,7 +14992,7 @@
 			)
 		)
 		(property "Transistor Type" "N-Channel"
-			(at 279.4 110.49 0)
+			(at 304.8 110.49 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13379,7 +15003,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PSMN040-100MSEX"
-			(at 279.4 113.03 0)
+			(at 304.8 113.03 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13612,7 +15236,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
-		(at 261.62 76.2 0)
+		(at 287.02 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13621,7 +15245,7 @@
 		(fields_autoplaced yes)
 		(uuid "b16dd250-de51-482f-b3c0-6a973e041b07")
 		(property "Reference" "R19"
-			(at 261.62 69.85 0)
+			(at 287.02 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13629,7 +15253,7 @@
 			)
 		)
 		(property "Value" "390 mΩ"
-			(at 261.62 72.39 0)
+			(at 287.02 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13637,7 +15261,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 81.28 0)
+			(at 287.02 81.28 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13648,7 +15272,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 83.82 0)
+			(at 287.02 83.82 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13659,7 +15283,7 @@
 			)
 		)
 		(property "Description" "RES SMD 390 mΩ 1% 0612"
-			(at 261.62 86.36 0)
+			(at 287.02 86.36 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13670,7 +15294,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 88.9 0)
+			(at 287.02 88.9 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13681,7 +15305,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 91.44 0)
+			(at 287.02 91.44 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13692,7 +15316,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 93.98 0)
+			(at 287.02 93.98 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13703,7 +15327,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2BFR39V"
-			(at 261.62 96.52 0)
+			(at 287.02 96.52 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13714,7 +15338,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 99.06 0)
+			(at 287.02 99.06 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13725,7 +15349,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2BF"
-			(at 261.62 101.6 0)
+			(at 287.02 101.6 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13736,7 +15360,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2BFR39V"
-			(at 261.62 104.14 0)
+			(at 287.02 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13747,7 +15371,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 106.68 0)
+			(at 287.02 106.68 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13758,7 +15382,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 109.22 0)
+			(at 287.02 109.22 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13769,7 +15393,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
-			(at 261.62 111.76 0)
+			(at 287.02 111.76 0)
 			(show_name yes)
 			(effects
 				(font
@@ -13780,7 +15404,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 114.3 0)
+			(at 287.02 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14004,7 +15628,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_PRL1632-_DATA_BASE:R_PRL1632-R016-F-T1")
-		(at 261.62 99.06 0)
+		(at 287.02 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14013,7 +15637,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3847fe3-5aca-485d-a043-c9ae2528d9c0")
 		(property "Reference" "R12"
-			(at 261.62 102.87 0)
+			(at 287.02 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14021,7 +15645,7 @@
 			)
 		)
 		(property "Value" "16 mΩ"
-			(at 261.62 105.41 0)
+			(at 287.02 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14029,7 +15653,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 104.14 0)
+			(at 287.02 104.14 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14040,7 +15664,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf"
-			(at 261.62 106.68 0)
+			(at 287.02 106.68 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14051,7 +15675,7 @@
 			)
 		)
 		(property "Description" "RES SMD 16 mΩ 1% 0612"
-			(at 261.62 109.22 0)
+			(at 287.02 109.22 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14062,7 +15686,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 111.76 0)
+			(at 287.02 111.76 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14073,7 +15697,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 114.3 0)
+			(at 287.02 114.3 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14084,7 +15708,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 116.84 0)
+			(at 287.02 116.84 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14095,7 +15719,7 @@
 			)
 		)
 		(property "MPN" "PRL1632-R016-F-T1"
-			(at 261.62 119.38 0)
+			(at 287.02 119.38 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14106,7 +15730,7 @@
 			)
 		)
 		(property "Manufacturer" "Susumu"
-			(at 261.62 121.92 0)
+			(at 287.02 121.92 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14117,7 +15741,7 @@
 			)
 		)
 		(property "Series" "PRL1632-"
-			(at 261.62 124.46 0)
+			(at 287.02 124.46 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14128,7 +15752,7 @@
 			)
 		)
 		(property "Symbol Name" "R_PRL1632-R016-F-T1"
-			(at 261.62 127 0)
+			(at 287.02 127 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14139,7 +15763,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 129.54 0)
+			(at 287.02 129.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14150,7 +15774,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 132.08 0)
+			(at 287.02 132.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14161,7 +15785,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PRL1632-R016-F-T1"
-			(at 261.62 134.62 0)
+			(at 287.02 134.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14172,7 +15796,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 137.16 0)
+			(at 287.02 137.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14438,7 +16062,7 @@
 	)
 	(symbol
 		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
-		(at 261.62 35.56 0)
+		(at 287.02 35.56 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14447,7 +16071,7 @@
 		(dnp no)
 		(uuid "bb07c717-bba3-45c3-bacd-5ed8c61baca4")
 		(property "Reference" "R18"
-			(at 261.62 29.21 0)
+			(at 287.02 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14455,7 +16079,7 @@
 			)
 		)
 		(property "Value" "24 mΩ"
-			(at 261.62 31.75 0)
+			(at 287.02 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14463,7 +16087,7 @@
 			)
 		)
 		(property "Footprint" "resistor_footprints:R_0612_1632Metric"
-			(at 261.62 30.48 0)
+			(at 287.02 30.48 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14474,7 +16098,7 @@
 			)
 		)
 		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
-			(at 261.62 27.94 0)
+			(at 287.02 27.94 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14485,7 +16109,7 @@
 			)
 		)
 		(property "Description" "RES SMD 24 mΩ 1% 0612"
-			(at 261.62 25.4 0)
+			(at 287.02 25.4 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14496,7 +16120,7 @@
 			)
 		)
 		(property "Case Code - in" "0612"
-			(at 261.62 22.86 0)
+			(at 287.02 22.86 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14507,7 +16131,7 @@
 			)
 		)
 		(property "Case Code - mm" "1632"
-			(at 261.62 20.32 0)
+			(at 287.02 20.32 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14518,7 +16142,7 @@
 			)
 		)
 		(property "Component Type" "Resistor"
-			(at 261.62 17.78 0)
+			(at 287.02 17.78 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14529,7 +16153,7 @@
 			)
 		)
 		(property "MPN" "ERJ-B2CFR024V"
-			(at 261.62 15.24 0)
+			(at 287.02 15.24 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14540,7 +16164,7 @@
 			)
 		)
 		(property "Manufacturer" "Panasonic"
-			(at 261.62 12.7 0)
+			(at 287.02 12.7 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14551,7 +16175,7 @@
 			)
 		)
 		(property "Series" "ERJ-B2CF"
-			(at 261.62 10.16 0)
+			(at 287.02 10.16 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14562,7 +16186,7 @@
 			)
 		)
 		(property "Symbol Name" "R_ERJ-B2CFR024V"
-			(at 261.62 7.62 0)
+			(at 287.02 7.62 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14573,7 +16197,7 @@
 			)
 		)
 		(property "Temperature Coefficient" ""
-			(at 261.62 5.08 0)
+			(at 287.02 5.08 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14584,7 +16208,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 261.62 2.54 0)
+			(at 287.02 2.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14595,7 +16219,7 @@
 			)
 		)
 		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
-			(at 261.62 0 0)
+			(at 287.02 0 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14606,7 +16230,7 @@
 			)
 		)
 		(property "Voltage Rating" ""
-			(at 261.62 -2.54 0)
+			(at 287.02 -2.54 0)
 			(show_name yes)
 			(effects
 				(font
@@ -14626,6 +16250,157 @@
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "DIODES_S1B-13-F_DATA_BASE:D_S1B-13-F")
+		(at 248.92 226.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bfbff584-3b6b-4c57-9469-e87cff4ba642")
+		(property "Reference" "D2"
+			(at 248.92 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100 V"
+			(at 248.92 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "diode_footprints:SMA"
+			(at 248.92 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0007810797/DIOD-S-A0007810797-1.pdf?hkey=CECEF36DEECDED6468708AAF2E19C0C6"
+			(at 248.92 236.22 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Rectifier SMD 100 V"
+			(at 248.92 238.76 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Diode Type" "Rectifier"
+			(at 248.92 241.3 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "S1B-13-F"
+			(at 248.92 243.84 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated"
+			(at 248.92 246.38 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Maximum DC Current (A)" "1.0"
+			(at 248.92 248.92 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "S1B-13-F"
+			(at 248.92 251.46 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "D_S1B-13-F"
+			(at 248.92 254 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/S1B-13-F"
+			(at 248.92 256.54 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31d7dda8-fb7c-404d-b143-3577ddd8ebae")
+		)
+		(pin "2"
+			(uuid "73fb6013-8b2f-4d16-80bf-746db5ce1739")
+		)
+		(instances
+			(project ""
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -14844,6 +16619,203 @@
 			(project ""
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF4992X")
+		(at 264.16 233.68 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c5c23109-eacd-4484-96dd-3703705d0221")
+		(property "Reference" "R20"
+			(at 261.62 232.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "49.9 kΩ"
+			(at 261.62 234.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
+			(at 269.24 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+			(at 271.78 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES SMD 49.9 kΩ 1% 0402 50V"
+			(at 274.32 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - in" "0402"
+			(at 276.86 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Case Code - mm" "1005"
+			(at 279.4 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Type" "Resistor"
+			(at 281.94 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-2RKF4992X"
+			(at 284.48 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 287.02 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "ERJ-2RKF"
+			(at 289.56 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "R_ERJ-2RKF4992X"
+			(at 292.1 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Temperature Coefficient" "100 ppm/°C"
+			(at 294.64 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 297.18 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF4992X"
+			(at 299.72 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 302.26 233.68 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c445cbe3-aae9-4302-92d9-04854adfe578")
+		)
+		(pin "2"
+			(uuid "8e0e3eb9-450f-47e0-b90a-7c1b1143f0db")
+		)
+		(instances
+			(project ""
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "R20")
 					(unit 1)
 				)
 			)

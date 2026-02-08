@@ -740,7 +740,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CAPACITORS_CL31B_DATA_BASE:C_CL31B225KBHNNN#"
+		(symbol "CAPACITORS_CGA4J1X7R2A_DATA_BASE:C_CGA4J1X7R2A225K125AC"
 			(pin_names
 				(offset 0.254)
 			)
@@ -765,7 +765,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
+			(property "Footprint" "capacitor_footprints:C_0805_2012Metric"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -776,7 +776,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL31B225KBHNNN#"
+			(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=CGA4J1X7R2A225K125AC"
 				(at 0 -10.16 0)
 				(show_name)
 				(effects
@@ -787,7 +787,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP SMD 2.2 µF X7R 10% 1206 50V"
+			(property "Description" "CAP SMD 2.2 µF X7R 10% 0805 100V"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -809,7 +809,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "1206"
+			(property "Case Code - in" "0805"
 				(at 0 -17.78 0)
 				(show_name)
 				(effects
@@ -820,7 +820,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "3216"
+			(property "Case Code - mm" "2012"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -842,7 +842,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "CL31B225KBHNNN#"
+			(property "MPN" "CGA4J1X7R2A225K125AC"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -853,7 +853,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Samsung Electro-Mechanics"
+			(property "Manufacturer" "TDK"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -864,7 +864,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "CL31B"
+			(property "Series" "CGA4J1X7R2A"
 				(at 0 -30.48 0)
 				(show_name)
 				(effects
@@ -875,7 +875,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "C_CL31B225KBHNNN#"
+			(property "Symbol Name" "C_CGA4J1X7R2A225K125AC"
 				(at 0 -33.02 0)
 				(show_name)
 				(effects
@@ -897,7 +897,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B225KBHNNN#"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CGA4J1X7R2A225K125AC"
 				(at 0 -38.1 0)
 				(show_name)
 				(effects
@@ -908,7 +908,7 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Voltage Rating" "100V"
 				(at 0 -40.64 0)
 				(show_name)
 				(effects
@@ -919,7 +919,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "C_CL31B225KBHNNN#_0_1"
+			(symbol "C_CGA4J1X7R2A225K125AC_0_1"
 				(polyline
 					(pts
 						(xy -0.762 -2.032) (xy -0.762 2.032)
@@ -945,7 +945,7 @@
 					)
 				)
 			)
-			(symbol "C_CL31B225KBHNNN#_1_1"
+			(symbol "C_CGA4J1X7R2A225K125AC_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.8)
@@ -1470,6 +1470,289 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 5.08 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TBP02R1-381-03BE"
+				(at 5.08 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+				(at 5.08 -8.89 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+				(at 5.08 -11.43 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+				(at 5.08 -13.97 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Color" "Blue"
+				(at 5.08 -16.51 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Contact Plating" "Tin"
+				(at 5.08 -19.05 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Current Rating (A)" "8.0"
+				(at 5.08 -21.59 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "TBP02R1-381-03BE"
+				(at 5.08 -24.13 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Same Sky"
+				(at 5.08 -26.67 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mounting Angle" "Vertical"
+				(at 5.08 -29.21 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Mounting Style" "Through Hole"
+				(at 5.08 -31.75 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Number of Rows" "1"
+				(at 5.08 -34.29 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Pin Count" "3"
+				(at 5.08 -36.83 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Pitch (mm)" "3.81"
+				(at 5.08 -39.37 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "TBP02R1-381"
+				(at 5.08 -41.91 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "J_TBP02R1-381-03BE"
+				(at 5.08 -44.45 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+				(at 5.08 -46.99 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating (V)" "300"
+				(at 5.08 -49.53 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "J_TBP02R1-381-03BE_0_0"
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "J_TBP02R1-381-03BE_1_0"
+				(rectangle
+					(start -2.54 5.08)
+					(end 2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -3256,7 +3539,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF4992X"
+		(symbol "RESISTORS_ERJ-6ENF_DATA_BASE:R_ERJ-6ENF4992V"
 			(pin_names
 				(offset 0.254)
 			)
@@ -3281,7 +3564,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "resistor_footprints:R_0402_1005Metric"
+			(property "Footprint" "resistor_footprints:R_0805_2012Metric"
 				(at 0 -5.08 0)
 				(show_name)
 				(effects
@@ -3303,7 +3586,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RES SMD 49.9 kΩ 1% 0402 50V"
+			(property "Description" "RES SMD 49.9 kΩ 1% 0805 150V"
 				(at 0 -10.16 0)
 				(show_name)
 				(effects
@@ -3314,7 +3597,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0402"
+			(property "Case Code - in" "0805"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -3325,7 +3608,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1005"
+			(property "Case Code - mm" "2012"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -3347,7 +3630,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-2RKF4992X"
+			(property "MPN" "ERJ-6ENF4992V"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -3369,7 +3652,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-2RKF"
+			(property "Series" "ERJ-6ENF"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -3380,7 +3663,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-2RKF4992X"
+			(property "Symbol Name" "R_ERJ-6ENF4992V"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -3413,7 +3696,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF4992X"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6ENF4992V"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -3424,7 +3707,7 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "50V"
+			(property "Voltage Rating" "150V"
 				(at 0 -38.1 0)
 				(show_name)
 				(effects
@@ -3435,7 +3718,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "R_ERJ-2RKF4992X_0_1"
+			(symbol "R_ERJ-6ENF4992V_0_1"
 				(polyline
 					(pts
 						(xy -2.286 0) (xy -2.54 0)
@@ -3497,7 +3780,7 @@
 					)
 				)
 			)
-			(symbol "R_ERJ-2RKF4992X_1_1"
+			(symbol "R_ERJ-6ENF4992V_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -3537,7 +3820,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RESISTORS_ERJ-3GEY0_DATA_BASE:R_ERJ-3GEY0R00V"
+		(symbol "RESISTORS_ERJ-6GEY0_DATA_BASE:R_ERJ-6GEY0R00V"
 			(pin_names
 				(offset 0.254)
 			)
@@ -3562,7 +3845,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "resistor_footprints:R_0603_1608Metric"
+			(property "Footprint" "resistor_footprints:R_0805_2012Metric"
 				(at 0 -5.08 0)
 				(show_name)
 				(effects
@@ -3584,7 +3867,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RES SMD 0 mΩ 5% 0603 75V"
+			(property "Description" "RES SMD 0 mΩ 5% 0805 150V"
 				(at 0 -10.16 0)
 				(show_name)
 				(effects
@@ -3595,7 +3878,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - in" "0603"
+			(property "Case Code - in" "0805"
 				(at 0 -12.7 0)
 				(show_name)
 				(effects
@@ -3606,7 +3889,7 @@
 					(hide yes)
 				)
 			)
-			(property "Case Code - mm" "1608"
+			(property "Case Code - mm" "2012"
 				(at 0 -15.24 0)
 				(show_name)
 				(effects
@@ -3628,7 +3911,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "ERJ-3GEY0R00V"
+			(property "MPN" "ERJ-6GEY0R00V"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -3650,7 +3933,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "ERJ-3GEY0"
+			(property "Series" "ERJ-6GEY0"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -3661,7 +3944,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_ERJ-3GEY0R00V"
+			(property "Symbol Name" "R_ERJ-6GEY0R00V"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -3694,7 +3977,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3GEY0R00V"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6GEY0R00V"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -3705,7 +3988,7 @@
 					(hide yes)
 				)
 			)
-			(property "Voltage Rating" "75V"
+			(property "Voltage Rating" "150V"
 				(at 0 -38.1 0)
 				(show_name)
 				(effects
@@ -3716,7 +3999,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "R_ERJ-3GEY0R00V_0_1"
+			(symbol "R_ERJ-6GEY0R00V_0_1"
 				(polyline
 					(pts
 						(xy -2.286 0) (xy -2.54 0)
@@ -3778,7 +4061,7 @@
 					)
 				)
 			)
-			(symbol "R_ERJ-3GEY0R00V_1_1"
+			(symbol "R_ERJ-6GEY0R00V_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -6900,6 +7183,12 @@
 		)
 	)
 	(junction
+		(at 314.96 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "00fc5c13-2428-40ba-a964-cd6b8494277f")
+	)
+	(junction
 		(at 279.4 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6916,6 +7205,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07d0d173-664f-4a43-879a-42c72077bc88")
+	)
+	(junction
+		(at 314.96 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0930f894-9c1e-4623-916e-b680998093f7")
 	)
 	(junction
 		(at 177.8 66.04)
@@ -6942,6 +7237,12 @@
 		(uuid "151efae7-c3ee-43fe-b07f-bc53eb206520")
 	)
 	(junction
+		(at 314.96 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1775229a-78ee-48eb-917f-4681929503cd")
+	)
+	(junction
 		(at 279.4 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6964,6 +7265,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32aa350d-edc2-4874-a290-e98fec00b0cb")
+	)
+	(junction
+		(at 314.96 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3516bebc-13b2-47c8-add1-371352966060")
 	)
 	(junction
 		(at 314.96 162.56)
@@ -7138,6 +7445,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b652def7-c3c6-46d8-9e8d-a7cf1fafe89b")
+	)
+	(junction
+		(at 314.96 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b74533ad-0e93-4927-911d-377bc1874f5a")
 	)
 	(junction
 		(at 241.3 226.06)
@@ -7316,7 +7629,7 @@
 			(xy 281.94 116.84) (xy 279.4 116.84)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "0425e9da-0c7a-4343-8187-3ce4c8e4538a")
@@ -7333,6 +7646,26 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 86.36) (xy 350.52 86.36)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "0638066c-4c12-4c4e-9a7c-8d75cc0ff924")
+	)
+	(wire
+		(pts
+			(xy 340.36 210.82) (xy 350.52 210.82)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "0672c59e-2dd3-4df8-a211-1504e2a441d1")
+	)
+	(wire
+		(pts
 			(xy 241.3 139.7) (xy 241.3 180.34)
 		)
 		(stroke
@@ -7346,7 +7679,7 @@
 			(xy 279.4 180.34) (xy 281.94 180.34)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "074d21b6-6642-4314-b0bb-6210d7267964")
@@ -7433,6 +7766,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 129.54) (xy 340.36 139.7)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "0ceb73bc-ea59-4bbe-969f-96765ab8d6eb")
+	)
+	(wire
+		(pts
 			(xy 289.56 175.26) (xy 294.64 180.34)
 		)
 		(stroke
@@ -7456,10 +7799,30 @@
 			(xy 312.42 81.28) (xy 314.96 81.28)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "0e1671d0-3c19-472e-b858-1f40533402c2")
+	)
+	(wire
+		(pts
+			(xy 340.36 170.18) (xy 340.36 180.34)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "104a1d98-ecf7-451a-89e1-37781a6b9d93")
+	)
+	(wire
+		(pts
+			(xy 340.36 48.26) (xy 350.52 48.26)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "1051682c-c63a-4494-826b-deddbd8506ee")
 	)
 	(wire
 		(pts
@@ -7486,7 +7849,7 @@
 			(xy 312.42 157.48) (xy 314.96 157.48)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "119631db-a763-43a6-97a2-3475b30e6587")
@@ -7496,7 +7859,7 @@
 			(xy 312.42 203.2) (xy 314.96 203.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "11ad2546-05cd-414b-9c91-851c7330e8da")
@@ -7563,10 +7926,20 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 170.18) (xy 350.52 170.18)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "15eacd27-94bb-44bd-a6d0-d491bf4d4bec")
+	)
+	(wire
+		(pts
 			(xy 292.1 220.98) (xy 294.64 220.98)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "17bb820e-c28b-43d4-babd-5d22ab4631b7")
@@ -7576,7 +7949,7 @@
 			(xy 294.64 116.84) (xy 297.18 116.84)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "1880e64e-4dc7-466b-aeb3-c436da0efece")
@@ -7616,7 +7989,7 @@
 			(xy 312.42 76.2) (xy 314.96 76.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "1b15f641-0079-4996-a4ca-679dbbecdf73")
@@ -7666,10 +8039,20 @@
 			(xy 292.1 99.06) (xy 294.64 99.06)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "20032766-4208-4025-b290-2af2ed99dddc")
+	)
+	(wire
+		(pts
+			(xy 340.36 157.48) (xy 340.36 167.64)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "22141fd3-853a-4ec7-b654-0f509df0ae4e")
 	)
 	(wire
 		(pts
@@ -7713,7 +8096,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 78.74) (xy 330.2 78.74)
+			(xy 314.96 76.2) (xy 340.36 76.2)
 		)
 		(stroke
 			(width 0.508)
@@ -7746,10 +8129,20 @@
 			(xy 292.1 58.42) (xy 294.64 58.42)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "2c7fec3a-c02b-4ac8-b511-b73402b956af")
+	)
+	(wire
+		(pts
+			(xy 340.36 116.84) (xy 340.36 127)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "2d42b33e-60c2-4bc7-a050-b5c0c556c82c")
 	)
 	(wire
 		(pts
@@ -7866,7 +8259,7 @@
 			(xy 312.42 119.38) (xy 314.96 119.38)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "381c3250-2a3c-43ea-b8d3-9161532b69ef")
@@ -7903,10 +8296,20 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 129.54) (xy 350.52 129.54)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "3be987ee-f155-4a31-80fd-553cb20a1ad9")
+	)
+	(wire
+		(pts
 			(xy 292.1 180.34) (xy 294.64 180.34)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "3cdf3679-f984-43aa-9103-df41fa47c549")
@@ -7916,7 +8319,7 @@
 			(xy 312.42 121.92) (xy 314.96 121.92)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "3d042ce3-3ea0-4890-bcb9-8f5ec622585a")
@@ -7973,7 +8376,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 119.38) (xy 330.2 119.38)
+			(xy 314.96 116.84) (xy 340.36 116.84)
 		)
 		(stroke
 			(width 0.508)
@@ -7983,13 +8386,43 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 116.84) (xy 314.96 119.38)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "424d81ad-c9ed-4355-bddc-418656ff3e56")
+	)
+	(wire
+		(pts
+			(xy 340.36 45.72) (xy 350.52 45.72)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "42df1836-e0db-473d-827f-2aa7d137abd1")
+	)
+	(wire
+		(pts
 			(xy 314.96 119.38) (xy 314.96 121.92)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "4359787a-5aaa-4234-bf92-8fdb4fd3720c")
+	)
+	(wire
+		(pts
+			(xy 340.36 48.26) (xy 340.36 58.42)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "43b4d963-73b8-45d1-aa6f-eb1287e8986e")
 	)
 	(wire
 		(pts
@@ -8056,7 +8489,7 @@
 			(xy 279.4 220.98) (xy 281.94 220.98)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "4b52577d-fe1a-4327-bb77-7750a68b28f0")
@@ -8076,7 +8509,7 @@
 			(xy 312.42 162.56) (xy 314.96 162.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "4cc13b51-285f-4cd0-a51b-b7971340eb63")
@@ -8146,7 +8579,7 @@
 			(xy 314.96 38.1) (xy 314.96 40.64)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "5868aee2-a5ae-4c4f-a5d4-c0ca358d98e4")
@@ -8236,7 +8669,7 @@
 			(xy 294.64 157.48) (xy 292.1 157.48)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "5dc3527b-8301-4806-9a81-8d696272853d")
@@ -8266,14 +8699,14 @@
 			(xy 314.96 200.66) (xy 314.96 203.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "62d0af84-90f8-4624-bfbb-a33fbdfe9d44")
 	)
 	(wire
 		(pts
-			(xy 314.96 38.1) (xy 330.2 38.1)
+			(xy 314.96 35.56) (xy 340.36 35.56)
 		)
 		(stroke
 			(width 0.508)
@@ -8306,7 +8739,7 @@
 			(xy 312.42 35.56) (xy 314.96 35.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "68d34961-f340-407b-8c47-8d5a09746362")
@@ -8406,7 +8839,7 @@
 			(xy 294.64 76.2) (xy 297.18 76.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "75ca2bb1-949c-433a-b5fe-ccf94bb1e674")
@@ -8426,7 +8859,7 @@
 			(xy 292.1 139.7) (xy 294.64 139.7)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "79a2c70b-493c-454e-a0f5-471a4fd905f4")
@@ -8440,6 +8873,16 @@
 			(type default)
 		)
 		(uuid "7b522aa0-3f9c-470a-b4ed-ef6e1a7a0a97")
+	)
+	(wire
+		(pts
+			(xy 340.36 76.2) (xy 340.36 86.36)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "7bc9c39e-3719-4136-8019-b9289e471b59")
 	)
 	(wire
 		(pts
@@ -8476,7 +8919,7 @@
 			(xy 281.94 157.48) (xy 279.4 157.48)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "7f971d0f-5f73-4cc2-9bbd-af0ab10b4683")
@@ -8486,7 +8929,7 @@
 			(xy 281.94 198.12) (xy 279.4 198.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "814cf1e7-fa7b-402a-9171-89d0719943c5")
@@ -8506,7 +8949,7 @@
 			(xy 292.1 198.12) (xy 294.64 198.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "8442e0a7-82c8-455c-a8bb-40464f5a0682")
@@ -8516,7 +8959,7 @@
 			(xy 279.4 99.06) (xy 281.94 99.06)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "84b0dc34-8f9a-427e-9c50-05ff25925ada")
@@ -8556,7 +8999,7 @@
 			(xy 294.64 35.56) (xy 292.1 35.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "869d7ca4-9723-4ff9-89cf-9e683dfb5c46")
@@ -8586,7 +9029,7 @@
 			(xy 312.42 200.66) (xy 314.96 200.66)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "8914150b-35f1-4485-8eed-aac0adb961d9")
@@ -8613,6 +9056,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 208.28) (xy 350.52 208.28)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "8b8c4595-bf62-4ae6-b107-3901857e40e9")
+	)
+	(wire
+		(pts
 			(xy 279.4 180.34) (xy 276.86 177.8)
 		)
 		(stroke
@@ -8626,10 +9079,20 @@
 			(xy 279.4 58.42) (xy 281.94 58.42)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "8c09d0c0-4fc6-4036-9871-bacca9040b5e")
+	)
+	(wire
+		(pts
+			(xy 340.36 88.9) (xy 340.36 99.06)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "8de44f4e-cb64-41a6-b5dc-3281935f335c")
 	)
 	(wire
 		(pts
@@ -8640,6 +9103,16 @@
 			(type default)
 		)
 		(uuid "8e95a8af-8333-4b72-9232-15f6f9b8c2df")
+	)
+	(wire
+		(pts
+			(xy 314.96 76.2) (xy 314.96 78.74)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "8ece7b11-40ee-4b79-aecb-e72f7ae93b66")
 	)
 	(wire
 		(pts
@@ -8723,6 +9196,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 198.12) (xy 314.96 200.66)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "96c79423-6259-4316-9cd6-e5586ccf0e02")
+	)
+	(wire
+		(pts
 			(xy 264.16 220.98) (xy 264.16 228.6)
 		)
 		(stroke
@@ -8766,7 +9249,7 @@
 			(xy 312.42 78.74) (xy 314.96 78.74)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "9b3d57a1-4529-4aa3-9d67-3850d2801300")
@@ -8826,7 +9309,7 @@
 			(xy 292.1 116.84) (xy 294.64 116.84)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "a11ad167-f55e-4cb0-9294-59b66d0ea335")
@@ -8893,6 +9376,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 35.56) (xy 340.36 45.72)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "ac43fe11-f8a7-4dcd-90c3-9310f54ff575")
+	)
+	(wire
+		(pts
 			(xy 220.98 93.98) (xy 289.56 93.98)
 		)
 		(stroke
@@ -8953,10 +9446,20 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 167.64) (xy 350.52 167.64)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "b4a60de7-e9c8-4cfd-8a1b-8b658ad79270")
+	)
+	(wire
+		(pts
 			(xy 294.64 35.56) (xy 297.18 35.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "b4bbd5a8-9e13-4220-96fd-3459cd8e008f")
@@ -8966,7 +9469,7 @@
 			(xy 312.42 198.12) (xy 314.96 198.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "b648f17e-833c-4042-b978-a74298f0508d")
@@ -8983,10 +9486,20 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 198.12) (xy 340.36 208.28)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "b6c06c1f-01b3-481d-b3c3-fa5296e49737")
+	)
+	(wire
+		(pts
 			(xy 314.96 160.02) (xy 314.96 162.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "b77cdf0c-2bf2-4dc5-a484-904def2181a9")
@@ -8996,7 +9509,7 @@
 			(xy 294.64 76.2) (xy 292.1 76.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "b9765499-71b5-4c06-b4f6-0161f14f7502")
@@ -9023,7 +9536,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 180.34) (xy 330.2 180.34)
+			(xy 294.64 180.34) (xy 340.36 180.34)
 		)
 		(stroke
 			(width 0.508)
@@ -9046,7 +9559,7 @@
 			(xy 314.96 35.56) (xy 314.96 38.1)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "bccc4648-428c-42e0-91e0-f7a6d8d384aa")
@@ -9093,7 +9606,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 58.42) (xy 330.2 58.42)
+			(xy 294.64 58.42) (xy 340.36 58.42)
 		)
 		(stroke
 			(width 0.508)
@@ -9166,7 +9679,7 @@
 			(xy 314.96 78.74) (xy 314.96 81.28)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "cc8208fe-9be5-4048-8131-dd9befc969de")
@@ -9186,7 +9699,7 @@
 			(xy 312.42 40.64) (xy 314.96 40.64)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "d1315453-1ab7-4a83-ae42-a94ac2da606a")
@@ -9203,7 +9716,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 200.66) (xy 330.2 200.66)
+			(xy 314.96 198.12) (xy 340.36 198.12)
 		)
 		(stroke
 			(width 0.508)
@@ -9216,14 +9729,14 @@
 			(xy 312.42 160.02) (xy 314.96 160.02)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "d1f04a09-4739-4bbf-8fdb-15cf34c5e7ef")
 	)
 	(wire
 		(pts
-			(xy 294.64 139.7) (xy 331.47 139.7)
+			(xy 294.64 139.7) (xy 340.36 139.7)
 		)
 		(stroke
 			(width 0.508)
@@ -9286,7 +9799,7 @@
 			(xy 294.64 157.48) (xy 297.18 157.48)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "da86763b-6799-4f1e-a027-fcda2283b774")
@@ -9343,6 +9856,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 127) (xy 350.52 127)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "dfa7ad56-51a3-4674-be2c-8c553d65bd45")
+	)
+	(wire
+		(pts
 			(xy 266.7 246.38) (xy 269.24 246.38)
 		)
 		(stroke
@@ -9386,7 +9909,7 @@
 			(xy 312.42 38.1) (xy 314.96 38.1)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "e705a405-33ff-4a2e-831d-f44e47f4b065")
@@ -9396,7 +9919,7 @@
 			(xy 294.64 198.12) (xy 297.18 198.12)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "e8d0f153-944e-4ffd-ae25-da639dff72c2")
@@ -9406,7 +9929,7 @@
 			(xy 281.94 35.56) (xy 279.4 35.56)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "e97bece5-822d-4711-b1c5-c16a0583a69a")
@@ -9443,6 +9966,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 210.82) (xy 340.36 220.98)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "ecfa0b4c-8f25-450a-b47d-c574ca869298")
+	)
+	(wire
+		(pts
 			(xy 152.4 144.78) (xy 152.4 149.86)
 		)
 		(stroke
@@ -9453,6 +9986,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 157.48) (xy 314.96 160.02)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "ef19bd76-4d62-4dce-ab1d-20f15adaa03f")
+	)
+	(wire
+		(pts
 			(xy 238.76 243.84) (xy 238.76 246.38)
 		)
 		(stroke
@@ -9460,6 +10003,16 @@
 			(type default)
 		)
 		(uuid "efd35e5c-7d95-449b-ad20-a7801c9e2042")
+	)
+	(wire
+		(pts
+			(xy 340.36 88.9) (xy 350.52 88.9)
+		)
+		(stroke
+			(width 0.508)
+			(type default)
+		)
+		(uuid "f02477ee-46fa-4177-92de-78596387f58b")
 	)
 	(wire
 		(pts
@@ -9503,17 +10056,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 198.12) (xy 314.96 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5f403ff-ffb4-4b6f-ac0f-6fd64c0a5207")
-	)
-	(wire
-		(pts
-			(xy 314.96 160.02) (xy 330.2 160.02)
+			(xy 314.96 157.48) (xy 340.36 157.48)
 		)
 		(stroke
 			(width 0.508)
@@ -9526,7 +10069,7 @@
 			(xy 312.42 116.84) (xy 314.96 116.84)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "f81647d4-f1f4-411e-991f-1ad919b26ef8")
@@ -9553,7 +10096,7 @@
 	)
 	(wire
 		(pts
-			(xy 294.64 220.98) (xy 330.2 220.98)
+			(xy 294.64 220.98) (xy 340.36 220.98)
 		)
 		(stroke
 			(width 0.508)
@@ -9566,14 +10109,14 @@
 			(xy 281.94 76.2) (xy 279.4 76.2)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "f9e73920-420e-4f58-890d-8fada182e824")
 	)
 	(wire
 		(pts
-			(xy 294.64 99.06) (xy 330.2 99.06)
+			(xy 294.64 99.06) (xy 340.36 99.06)
 		)
 		(stroke
 			(width 0.508)
@@ -9606,7 +10149,7 @@
 			(xy 279.4 139.7) (xy 281.94 139.7)
 		)
 		(stroke
-			(width 0)
+			(width 0.508)
 			(type default)
 		)
 		(uuid "ff7e8105-8d4e-4962-bec1-368f34f72f94")
@@ -9732,7 +10275,7 @@
 		(uuid "30db1549-2c03-4d1b-baeb-9d96ff20b881")
 	)
 	(label "OUTP3"
-		(at 330.2 160.02 0)
+		(at 330.2 157.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9892,7 +10435,7 @@
 		(uuid "a8277a5f-99d8-4af1-a1d6-9446e153203a")
 	)
 	(label "OUTP2"
-		(at 330.2 119.38 0)
+		(at 330.2 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9902,7 +10445,7 @@
 		(uuid "a856170b-7cb3-46a3-8c3c-d4e719b272c5")
 	)
 	(label "OUTP0"
-		(at 330.2 38.1 0)
+		(at 330.2 35.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9962,7 +10505,7 @@
 		(uuid "ca3e5bcf-3805-4c83-97d4-086f78a91afa")
 	)
 	(label "OUTP4"
-		(at 330.2 200.66 0)
+		(at 330.2 198.12 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9982,7 +10525,7 @@
 		(uuid "d3a66845-d88c-4618-9bea-0cafa54cd088")
 	)
 	(label "OUTP1"
-		(at 330.2 78.74 0)
+		(at 330.2 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10032,7 +10575,7 @@
 		(uuid "f910bb71-ca9d-4fd7-8f1d-2bf13c20afcc")
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-3GEY0_DATA_BASE:R_ERJ-3GEY0R00V")
+		(lib_id "RESISTORS_ERJ-6GEY0_DATA_BASE:R_ERJ-6GEY0R00V")
 		(at 269.24 238.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10059,7 +10602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "resistor_footprints:R_0603_1608Metric"
+		(property "Footprint" "resistor_footprints:R_0805_2012Metric"
 			(at 274.32 238.76 0)
 			(show_name yes)
 			(effects
@@ -10081,7 +10624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 0 mΩ 5% 0603 75V"
+		(property "Description" "RES SMD 0 mΩ 5% 0805 150V"
 			(at 279.4 238.76 0)
 			(show_name yes)
 			(effects
@@ -10092,7 +10635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "0603"
+		(property "Case Code - in" "0805"
 			(at 281.94 238.76 0)
 			(show_name yes)
 			(effects
@@ -10103,7 +10646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "1608"
+		(property "Case Code - mm" "2012"
 			(at 284.48 238.76 0)
 			(show_name yes)
 			(effects
@@ -10125,7 +10668,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-3GEY0R00V"
+		(property "MPN" "ERJ-6GEY0R00V"
 			(at 289.56 238.76 0)
 			(show_name yes)
 			(effects
@@ -10147,7 +10690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-3GEY0"
+		(property "Series" "ERJ-6GEY0"
 			(at 294.64 238.76 0)
 			(show_name yes)
 			(effects
@@ -10158,7 +10701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-3GEY0R00V"
+		(property "Symbol Name" "R_ERJ-6GEY0R00V"
 			(at 297.18 238.76 0)
 			(show_name yes)
 			(effects
@@ -10191,7 +10734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-3GEY0R00V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6GEY0R00V"
 			(at 304.8 238.76 0)
 			(show_name yes)
 			(effects
@@ -10202,7 +10745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "75V"
+		(property "Voltage Rating" "150V"
 			(at 307.34 238.76 0)
 			(show_name yes)
 			(effects
@@ -10957,6 +11500,472 @@
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE")
+		(at 355.6 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e8ca07b-970e-47be-bd6c-3074bb9f7b02")
+		(property "Reference" "J5"
+			(at 359.41 168.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TBP02R1-381-03BE"
+			(at 359.41 171.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+			(at 360.68 179.07 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+			(at 360.68 181.61 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+			(at 360.68 184.15 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 360.68 186.69 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 360.68 189.23 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "8.0"
+			(at 360.68 191.77 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBP02R1-381-03BE"
+			(at 360.68 194.31 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 360.68 196.85 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 360.68 199.39 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 360.68 201.93 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "1"
+			(at 360.68 204.47 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 360.68 207.01 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "3.81"
+			(at 360.68 209.55 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "TBP02R1-381"
+			(at 360.68 212.09 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_TBP02R1-381-03BE"
+			(at 360.68 214.63 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+			(at 360.68 217.17 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 360.68 219.71 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec549882-b2f0-4efa-95e3-2c172f7e10f8")
+		)
+		(pin "2"
+			(uuid "3a709302-7f23-4827-b259-b3f99014a305")
+		)
+		(pin "3"
+			(uuid "e9f9823a-74a7-4c6b-8097-dab0d2f48c1e")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE")
+		(at 355.6 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1430cfe0-e31c-418e-a320-4b4a716a91b2")
+		(property "Reference" "J4"
+			(at 359.41 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TBP02R1-381-03BE"
+			(at 359.41 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+			(at 360.68 97.79 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+			(at 360.68 100.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+			(at 360.68 102.87 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 360.68 105.41 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 360.68 107.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "8.0"
+			(at 360.68 110.49 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBP02R1-381-03BE"
+			(at 360.68 113.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 360.68 115.57 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 360.68 118.11 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 360.68 120.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "1"
+			(at 360.68 123.19 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 360.68 125.73 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "3.81"
+			(at 360.68 128.27 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "TBP02R1-381"
+			(at 360.68 130.81 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_TBP02R1-381-03BE"
+			(at 360.68 133.35 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+			(at 360.68 135.89 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 360.68 138.43 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "75df7eee-7cf8-4321-81a0-1b987f751097")
+		)
+		(pin "2"
+			(uuid "425061f0-2c9a-40ef-b41c-94355d798a90")
+		)
+		(pin "3"
+			(uuid "e4990595-cd1a-4899-aaae-756499daea9b")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -12901,6 +13910,239 @@
 		)
 	)
 	(symbol
+		(lib_id "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE")
+		(at 355.6 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69c9ddeb-a2ee-42de-a4b7-4f33b28291e8")
+		(property "Reference" "J1"
+			(at 359.41 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TBP02R1-381-03BE"
+			(at 359.41 49.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+			(at 360.68 57.15 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+			(at 360.68 59.69 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+			(at 360.68 62.23 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 360.68 64.77 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 360.68 67.31 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "8.0"
+			(at 360.68 69.85 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBP02R1-381-03BE"
+			(at 360.68 72.39 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 360.68 74.93 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 360.68 77.47 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 360.68 80.01 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "1"
+			(at 360.68 82.55 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 360.68 85.09 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "3.81"
+			(at 360.68 87.63 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "TBP02R1-381"
+			(at 360.68 90.17 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_TBP02R1-381-03BE"
+			(at 360.68 92.71 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+			(at 360.68 95.25 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 360.68 97.79 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a5a56df-cef7-4c75-8814-87a502f3a9f6")
+		)
+		(pin "2"
+			(uuid "813e083f-fff4-4271-8234-41a9ad5851eb")
+		)
+		(pin "3"
+			(uuid "d32e7011-c9f6-4c06-ba86-6dc2742ddc91")
+		)
+		(instances
+			(project ""
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1002X")
 		(at 177.8 102.87 90)
 		(mirror x)
@@ -14670,7 +15912,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CAPACITORS_CL31B_DATA_BASE:C_CL31B225KBHNNN#")
+		(lib_id "CAPACITORS_CGA4J1X7R2A_DATA_BASE:C_CGA4J1X7R2A225K125AC")
 		(at 269.24 227.33 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14697,7 +15939,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "capacitor_footprints:C_1206_3216Metric"
+		(property "Footprint" "capacitor_footprints:C_0805_2012Metric"
 			(at 276.86 227.33 0)
 			(show_name yes)
 			(effects
@@ -14708,7 +15950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL31B225KBHNNN#"
+		(property "Datasheet" "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=CGA4J1X7R2A225K125AC"
 			(at 279.4 227.33 0)
 			(show_name yes)
 			(effects
@@ -14719,7 +15961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP SMD 2.2 µF X7R 10% 1206 50V"
+		(property "Description" "CAP SMD 2.2 µF X7R 10% 0805 100V"
 			(at 281.94 227.33 0)
 			(show_name yes)
 			(effects
@@ -14741,7 +15983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "1206"
+		(property "Case Code - in" "0805"
 			(at 287.02 227.33 0)
 			(show_name yes)
 			(effects
@@ -14752,7 +15994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "3216"
+		(property "Case Code - mm" "2012"
 			(at 289.56 227.33 0)
 			(show_name yes)
 			(effects
@@ -14774,7 +16016,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL31B225KBHNNN#"
+		(property "MPN" "CGA4J1X7R2A225K125AC"
 			(at 294.64 227.33 0)
 			(show_name yes)
 			(effects
@@ -14785,7 +16027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics"
+		(property "Manufacturer" "TDK"
 			(at 297.18 227.33 0)
 			(show_name yes)
 			(effects
@@ -14796,7 +16038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "CL31B"
+		(property "Series" "CGA4J1X7R2A"
 			(at 299.72 227.33 0)
 			(show_name yes)
 			(effects
@@ -14807,7 +16049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "C_CL31B225KBHNNN#"
+		(property "Symbol Name" "C_CGA4J1X7R2A225K125AC"
 			(at 302.26 227.33 0)
 			(show_name yes)
 			(effects
@@ -14829,7 +16071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CL31/CL31B225KBHNNN#"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/CGA4J1X7R2A225K125AC"
 			(at 307.34 227.33 0)
 			(show_name yes)
 			(effects
@@ -14840,7 +16082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Voltage Rating" "100V"
 			(at 309.88 227.33 0)
 			(show_name yes)
 			(effects
@@ -16625,7 +17867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF4992X")
+		(lib_id "RESISTORS_ERJ-6ENF_DATA_BASE:R_ERJ-6ENF4992V")
 		(at 264.16 233.68 90)
 		(mirror x)
 		(unit 1)
@@ -16633,6 +17875,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c5c23109-eacd-4484-96dd-3703705d0221")
 		(property "Reference" "R20"
 			(at 261.62 232.4099 90)
@@ -16652,7 +17895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "resistor_footprints:R_0402_1005Metric"
+		(property "Footprint" "resistor_footprints:R_0805_2012Metric"
 			(at 269.24 233.68 0)
 			(show_name yes)
 			(effects
@@ -16674,7 +17917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 49.9 kΩ 1% 0402 50V"
+		(property "Description" "RES SMD 49.9 kΩ 1% 0805 150V"
 			(at 274.32 233.68 0)
 			(show_name yes)
 			(effects
@@ -16685,7 +17928,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - in" "0402"
+		(property "Case Code - in" "0805"
 			(at 276.86 233.68 0)
 			(show_name yes)
 			(effects
@@ -16696,7 +17939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Case Code - mm" "1005"
+		(property "Case Code - mm" "2012"
 			(at 279.4 233.68 0)
 			(show_name yes)
 			(effects
@@ -16718,7 +17961,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-2RKF4992X"
+		(property "MPN" "ERJ-6ENF4992V"
 			(at 284.48 233.68 0)
 			(show_name yes)
 			(effects
@@ -16740,7 +17983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-2RKF"
+		(property "Series" "ERJ-6ENF"
 			(at 289.56 233.68 0)
 			(show_name yes)
 			(effects
@@ -16751,7 +17994,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-2RKF4992X"
+		(property "Symbol Name" "R_ERJ-6ENF4992V"
 			(at 292.1 233.68 0)
 			(show_name yes)
 			(effects
@@ -16784,7 +18027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-2RKF4992X"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-6ENF4992V"
 			(at 299.72 233.68 0)
 			(show_name yes)
 			(effects
@@ -16795,7 +18038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
+		(property "Voltage Rating" "150V"
 			(at 302.26 233.68 0)
 			(show_name yes)
 			(effects
@@ -17083,6 +18326,239 @@
 		)
 	)
 	(symbol
+		(lib_id "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE")
+		(at 355.6 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2be1dc6-d4b8-477a-89d3-20615fa1e576")
+		(property "Reference" "J3"
+			(at 359.41 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TBP02R1-381-03BE"
+			(at 359.41 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+			(at 360.68 138.43 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+			(at 360.68 140.97 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+			(at 360.68 143.51 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 360.68 146.05 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 360.68 148.59 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "8.0"
+			(at 360.68 151.13 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBP02R1-381-03BE"
+			(at 360.68 153.67 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 360.68 156.21 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 360.68 158.75 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 360.68 161.29 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "1"
+			(at 360.68 163.83 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 360.68 166.37 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "3.81"
+			(at 360.68 168.91 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "TBP02R1-381"
+			(at 360.68 171.45 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_TBP02R1-381-03BE"
+			(at 360.68 173.99 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+			(at 360.68 176.53 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 360.68 179.07 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a48a6bcf-38d6-46ab-910c-baa6a45968fb")
+		)
+		(pin "2"
+			(uuid "acf0c8d0-77a8-40fa-9aca-0aa8770eb68c")
+		)
+		(pin "3"
+			(uuid "9492db1c-dfed-4316-9f05-4785eb1c3f64")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "RESISTORS_ERJ-2RKF_DATA_BASE:R_ERJ-2RKF1001X")
 		(at 152.4 128.27 90)
 		(mirror x)
@@ -17274,6 +18750,239 @@
 			(project ""
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CONNECTORS_TBP02R1-381_DATA_BASE:J_TBP02R1-381-03BE")
+		(at 355.6 210.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed3b1edd-0bb9-47da-bc6a-c29c7a342d37")
+		(property "Reference" "J2"
+			(at 359.41 209.5499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TBP02R1-381-03BE"
+			(at 359.41 212.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "connector_footprints:TBP02R1-381-03BE"
+			(at 360.68 219.71 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/tbp02r1-381.pdf"
+			(at 360.68 222.25 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Same Sky TBP02R1-381 series,  3 positions connector,  3.81 mm pitch,  Blue,  Vertical mounting,  8.0 A,  300 V,  Through Hole,  Tin plated"
+			(at 360.68 224.79 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 360.68 227.33 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Contact Plating" "Tin"
+			(at 360.68 229.87 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Current Rating (A)" "8.0"
+			(at 360.68 232.41 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TBP02R1-381-03BE"
+			(at 360.68 234.95 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Same Sky"
+			(at 360.68 237.49 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Angle" "Vertical"
+			(at 360.68 240.03 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mounting Style" "Through Hole"
+			(at 360.68 242.57 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Number of Rows" "1"
+			(at 360.68 245.11 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pin Count" "3"
+			(at 360.68 247.65 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Pitch (mm)" "3.81"
+			(at 360.68 250.19 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Series" "TBP02R1-381"
+			(at 360.68 252.73 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Symbol Name" "J_TBP02R1-381-03BE"
+			(at 360.68 255.27 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/TBP02R1-381-03BE"
+			(at 360.68 257.81 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating (V)" "300"
+			(at 360.68 260.35 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f575efa4-9574-4092-8c93-54318070e4e2")
+		)
+		(pin "2"
+			(uuid "96921b7e-a048-46b9-8bff-ffc7657e943f")
+		)
+		(pin "3"
+			(uuid "fe0dbe2d-94b9-4681-b15b-6c539c672d7b")
+		)
+		(instances
+			(project "minimal_ltc4296-1"
+				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
+					(reference "J2")
 					(unit 1)
 				)
 			)

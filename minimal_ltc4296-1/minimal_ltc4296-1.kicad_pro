@@ -492,6 +492,16 @@
       "version": 4
     },
     "net_colors": {
+      "/OUTM0": "rgb(0, 119, 0)",
+      "/OUTM1": "rgb(0, 153, 0)",
+      "/OUTM2": "rgb(0, 187, 0)",
+      "/OUTM3": "rgb(0, 221, 0)",
+      "/OUTM4": "rgb(0, 255, 0)",
+      "/OUTP0": "rgb(119, 0, 0)",
+      "/OUTP1": "rgb(153, 0, 0)",
+      "/OUTP2": "rgb(187, 0, 0)",
+      "/OUTP3": "rgb(221, 0, 0)",
+      "/OUTP4": "rgb(255, 0, 0)",
       "GND": "rgb(132, 132, 132)"
     },
     "netclass_assignments": null,

@@ -20576,6 +20576,16 @@
 				(justify left)
 			)
 		)
+		(pin "3V3" input
+			(at 330.2 127 180)
+			(uuid "3eb118b3-45bd-4833-8aca-a21b87a8feb9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20642,6 +20652,16 @@
 		(pin "OUTM" input
 			(at 350.52 55.88 270)
 			(uuid "bfe240b6-f939-4cb1-83b8-50fe3d2acda6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 330.2 45.72 180)
+			(uuid "e0d8c55a-a5e7-4e79-9f45-9b78c553b7c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20722,6 +20742,16 @@
 				(justify left)
 			)
 		)
+		(pin "3V3" input
+			(at 330.2 167.64 180)
+			(uuid "b451867d-a6c2-4320-a1e4-ef529c3b06c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20795,6 +20825,16 @@
 				(justify left)
 			)
 		)
+		(pin "3V3" input
+			(at 330.2 208.28 180)
+			(uuid "fcf413b7-6f40-4b18-92fc-526da1866b29")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20861,6 +20901,16 @@
 		(pin "OUTM" input
 			(at 350.52 96.52 270)
 			(uuid "6c382299-7ca6-4dfa-a9a4-4ddf27480b67")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3V3" input
+			(at 330.2 86.36 180)
+			(uuid "983d5a6c-748b-41e6-a4fc-77ce79d4c17b")
 			(effects
 				(font
 					(size 1.27 1.27)

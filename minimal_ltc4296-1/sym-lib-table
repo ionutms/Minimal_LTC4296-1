@@ -408,4 +408,7 @@
   (lib (name "CAPACITORS_CGA4J1X7R2A_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/CAPACITORS_CGA4J1X7R2A_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "RESISTORS_ERJ-6GEY_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/RESISTORS_ERJ-6GEY_DATA_BASE.kicad_sym")(options "")(descr ""))
   (lib (name "RESISTORS_ERJ-6GEY0_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/RESISTORS_ERJ-6GEY0_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "DIODES_BAT54WS-7-F_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/DIODES_BAT54WS-7-F_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "TRANSISTORS_MMBTA06-7-F_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_MMBTA06-7-F_DATA_BASE.kicad_sym")(options "")(descr ""))
+  (lib (name "TRANSISTORS_MMBT3904LT3G_DATA_BASE")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Symbols_Generator/series_kicad_sym/TRANSISTORS_MMBT3904LT3G_DATA_BASE.kicad_sym")(options "")(descr ""))
 )

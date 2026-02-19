@@ -9133,6 +9133,16 @@
 	)
 	(wire
 		(pts
+			(xy 325.12 127) (xy 330.2 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68371fe6-be13-4455-8696-aefa9ff65b3a")
+	)
+	(wire
+		(pts
 			(xy 312.42 35.56) (xy 314.96 35.56)
 		)
 		(stroke
@@ -9350,6 +9360,16 @@
 			(type default)
 		)
 		(uuid "814cf1e7-fa7b-402a-9171-89d0719943c5")
+	)
+	(wire
+		(pts
+			(xy 325.12 86.36) (xy 330.2 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "825a383a-c009-42ef-a0ef-f67dad4e6198")
 	)
 	(wire
 		(pts
@@ -9733,6 +9753,16 @@
 	)
 	(wire
 		(pts
+			(xy 325.12 167.64) (xy 330.2 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d3ac7ca-e814-44ce-90e0-f487219f363a")
+	)
+	(wire
+		(pts
 			(xy 165.1 147.32) (xy 165.1 160.02)
 		)
 		(stroke
@@ -9870,6 +9900,16 @@
 			(type default)
 		)
 		(uuid "ac43fe11-f8a7-4dcd-90c3-9310f54ff575")
+	)
+	(wire
+		(pts
+			(xy 325.12 45.72) (xy 330.2 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad9970ed-e386-43fe-937a-16b504c33588")
 	)
 	(wire
 		(pts
@@ -10433,6 +10473,16 @@
 	)
 	(wire
 		(pts
+			(xy 325.12 208.28) (xy 330.2 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2c18060-7de1-45ee-98c2-e80a358710c9")
+	)
+	(wire
+		(pts
 			(xy 241.3 58.42) (xy 279.4 58.42)
 		)
 		(stroke
@@ -10791,6 +10841,16 @@
 		)
 		(uuid "09d90ce8-cb0d-4494-9952-b2bec5a8776c")
 	)
+	(label "3V3"
+		(at 325.12 208.28 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "10f781d1-3d37-4599-a7e7-4d0b3c689da1")
+	)
 	(label "SW2"
 		(at 317.5 132.08 0)
 		(effects
@@ -10810,6 +10870,16 @@
 			(justify right bottom)
 		)
 		(uuid "1441c9dd-f076-40ca-82ff-ad147df6c41f")
+	)
+	(label "3V3"
+		(at 325.12 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1563584d-c93f-40fa-a45a-a482281f0420")
 	)
 	(label "HGATE0"
 		(at 223.52 45.72 0)
@@ -11041,6 +11111,16 @@
 		)
 		(uuid "b0980427-ec08-49b7-ada7-413e5cd9842e")
 	)
+	(label "3V3"
+		(at 325.12 167.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b38fa2fb-8766-4aaa-b1c7-3825a947ed60")
+	)
 	(label "LSNS"
 		(at 243.84 220.98 0)
 		(effects
@@ -11050,6 +11130,16 @@
 			(justify left bottom)
 		)
 		(uuid "b9b4609b-a5ca-4146-8978-fbe9540a159f")
+	)
+	(label "3V3"
+		(at 325.12 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "beec9116-195a-4b72-9d19-5e3cfb9e56f6")
 	)
 	(label "PSE"
 		(at 116.84 30.48 0)
@@ -11130,6 +11220,16 @@
 			(justify left bottom)
 		)
 		(uuid "df543487-670e-42bd-b86e-c5579e48a83a")
+	)
+	(label "3V3"
+		(at 325.12 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e1b37b87-17c5-4e18-a80d-ee746013e0a2")
 	)
 	(label "HSNSM1"
 		(at 223.52 83.82 0)
@@ -20513,7 +20613,7 @@
 	)
 	(sheet
 		(at 330.2 121.92)
-		(size 25.4 15.24)
+		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20586,6 +20686,26 @@
 				(justify left)
 			)
 		)
+		(pin "SCCPI" output
+			(at 360.68 127 0)
+			(uuid "f1fd2832-06db-429d-83e1-8e6c786d9d1b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCCPO" input
+			(at 360.68 132.08 0)
+			(uuid "a4397af5-37c9-433c-9d0f-1a5db9e2028f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20596,7 +20716,7 @@
 	)
 	(sheet
 		(at 330.2 40.64)
-		(size 25.4 15.24)
+		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20669,6 +20789,26 @@
 				(justify left)
 			)
 		)
+		(pin "SCCPI" output
+			(at 360.68 45.72 0)
+			(uuid "23d4e93f-18e8-48f0-a2d4-861ac24cc7fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCCPO" input
+			(at 360.68 50.8 0)
+			(uuid "02369379-7884-4d11-b0b2-d9dbdcdc9299")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20679,7 +20819,7 @@
 	)
 	(sheet
 		(at 330.2 162.56)
-		(size 25.4 15.24)
+		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20752,6 +20892,26 @@
 				(justify left)
 			)
 		)
+		(pin "SCCPI" output
+			(at 360.68 167.64 0)
+			(uuid "43fa13b7-24cf-4bc0-999c-8a558e9029d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCCPO" input
+			(at 360.68 172.72 0)
+			(uuid "14b700b8-5a9b-4c2b-b92f-005f3e521e9e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20762,7 +20922,7 @@
 	)
 	(sheet
 		(at 330.2 203.2)
-		(size 25.4 15.24)
+		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20835,6 +20995,26 @@
 				(justify left)
 			)
 		)
+		(pin "SCCPI" output
+			(at 360.68 208.28 0)
+			(uuid "7737c166-1304-449f-816d-9979181f6714")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCCPO" input
+			(at 360.68 213.36 0)
+			(uuid "31da0bd0-7010-4930-8824-2cdf8321b409")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "minimal_ltc4296-1"
 				(path "/e9cd67f6-87f6-45d7-ba91-8216ce839c88"
@@ -20845,7 +21025,7 @@
 	)
 	(sheet
 		(at 330.2 81.28)
-		(size 25.4 15.24)
+		(size 30.48 15.24)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -20916,6 +21096,26 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "SCCPI" output
+			(at 360.68 86.36 0)
+			(uuid "33e772c4-3677-41ec-8a8c-bdcb0d524f05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCCPO" input
+			(at 360.68 91.44 0)
+			(uuid "cff6bf95-e1b3-469e-9760-0513ecbc6c45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

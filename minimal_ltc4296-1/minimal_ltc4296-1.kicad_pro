@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1524,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2032
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -492,6 +492,7 @@
       "version": 4
     },
     "net_colors": {
+      "/3V3": "rgb(204, 102, 0)",
       "/OUTM0": "rgb(0, 119, 0)",
       "/OUTM1": "rgb(0, 153, 0)",
       "/OUTM2": "rgb(0, 187, 0)",

@@ -4366,6 +4366,568 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BF1R6V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1.6 Ω"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 1.6 Ω 1% 0612"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0612"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1632"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-B2BF1R6V"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-B2BF"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-B2BF1R6V"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" ""
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BF1R6V"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" ""
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-B2BF1R6V_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-B2BF1R6V_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR24V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "240 mΩ"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 240 mΩ 1% 0612"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0612"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1632"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-B2BFR24V"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-B2BF"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-B2BFR24V"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" ""
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR24V"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" ""
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-B2BFR24V_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-B2BFR24V_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V"
 			(pin_names
 				(offset 0.254)
@@ -4608,6 +5170,287 @@
 				)
 			)
 			(symbol "R_ERJ-B2BFR39V_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR62V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "620 mΩ"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 620 mΩ 1% 0612"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0612"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1632"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-B2BFR62V"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-B2BF"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-B2BFR62V"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" ""
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR62V"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" ""
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-B2BFR62V_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-B2BFR62V_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -4928,7 +5771,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RESISTORS_PRL1632-_DATA_BASE:R_PRL1632-R016-F-T1"
+		(symbol "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR10V"
 			(pin_names
 				(offset 0.254)
 			)
@@ -4944,7 +5787,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "16 mΩ"
+			(property "Value" "100 mΩ"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -4964,7 +5807,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf"
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
 				(at 0 -7.62 0)
 				(show_name)
 				(effects
@@ -4975,7 +5818,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "RES SMD 16 mΩ 1% 0612"
+			(property "Description" "RES SMD 100 mΩ 1% 0612"
 				(at 0 -10.16 0)
 				(show_name)
 				(effects
@@ -5019,7 +5862,7 @@
 					(hide yes)
 				)
 			)
-			(property "MPN" "PRL1632-R016-F-T1"
+			(property "MPN" "ERJ-B2CFR10V"
 				(at 0 -20.32 0)
 				(show_name)
 				(effects
@@ -5030,7 +5873,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "Susumu"
+			(property "Manufacturer" "Panasonic"
 				(at 0 -22.86 0)
 				(show_name)
 				(effects
@@ -5041,7 +5884,7 @@
 					(hide yes)
 				)
 			)
-			(property "Series" "PRL1632-"
+			(property "Series" "ERJ-B2CF"
 				(at 0 -25.4 0)
 				(show_name)
 				(effects
@@ -5052,7 +5895,7 @@
 					(hide yes)
 				)
 			)
-			(property "Symbol Name" "R_PRL1632-R016-F-T1"
+			(property "Symbol Name" "R_ERJ-B2CFR10V"
 				(at 0 -27.94 0)
 				(show_name)
 				(effects
@@ -5085,7 +5928,7 @@
 					(hide yes)
 				)
 			)
-			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PRL1632-R016-F-T1"
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR10V"
 				(at 0 -35.56 0)
 				(show_name)
 				(effects
@@ -5107,7 +5950,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "R_PRL1632-R016-F-T1_0_1"
+			(symbol "R_ERJ-B2CFR10V_0_1"
 				(polyline
 					(pts
 						(xy -2.286 0) (xy -2.54 0)
@@ -5169,7 +6012,288 @@
 					)
 				)
 			)
-			(symbol "R_PRL1632-R016-F-T1_1_1"
+			(symbol "R_ERJ-B2CFR10V_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR16V"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "160 mΩ"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "resistor_footprints:R_0612_1632Metric"
+				(at 0 -5.08 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
+				(at 0 -7.62 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "RES SMD 160 mΩ 1% 0612"
+				(at 0 -10.16 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - in" "0612"
+				(at 0 -12.7 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Case Code - mm" "1632"
+				(at 0 -15.24 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Component Type" "Resistor"
+				(at 0 -17.78 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "ERJ-B2CFR16V"
+				(at 0 -20.32 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Panasonic"
+				(at 0 -22.86 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Series" "ERJ-B2CF"
+				(at 0 -25.4 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Symbol Name" "R_ERJ-B2CFR16V"
+				(at 0 -27.94 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Temperature Coefficient" ""
+				(at 0 -30.48 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 0 -33.02 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR16V"
+				(at 0 -35.56 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Voltage Rating" ""
+				(at 0 -38.1 0)
+				(show_name)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(symbol "R_ERJ-B2CFR16V_0_1"
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 0) (xy -1.905 1.016) (xy -1.524 0) (xy -1.143 -1.016) (xy -0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy -0.381 1.016) (xy 0 0) (xy 0.381 -1.016) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0) (xy 1.143 1.016) (xy 1.524 0) (xy 1.905 -1.016) (xy 2.286 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_ERJ-B2CFR16V_1_1"
 				(pin passive line
 					(at -5.08 0 0)
 					(length 2.54)
@@ -12659,7 +13783,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
+		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR24V")
 		(at 287.02 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12676,7 +13800,7 @@
 				)
 			)
 		)
-		(property "Value" "24 mΩ"
+		(property "Value" "240 mΩ"
 			(at 287.02 194.31 0)
 			(effects
 				(font
@@ -12706,7 +13830,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 24 mΩ 1% 0612"
+		(property "Description" "RES SMD 240 mΩ 1% 0612"
 			(at 287.02 208.28 0)
 			(show_name yes)
 			(effects
@@ -12750,7 +13874,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-B2CFR024V"
+		(property "MPN" "ERJ-B2BFR24V"
 			(at 287.02 218.44 0)
 			(show_name yes)
 			(effects
@@ -12772,7 +13896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-B2CF"
+		(property "Series" "ERJ-B2BF"
 			(at 287.02 223.52 0)
 			(show_name yes)
 			(effects
@@ -12783,7 +13907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-B2CFR024V"
+		(property "Symbol Name" "R_ERJ-B2BFR24V"
 			(at 287.02 226.06 0)
 			(show_name yes)
 			(effects
@@ -12816,7 +13940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR24V"
 			(at 287.02 233.68 0)
 			(show_name yes)
 			(effects
@@ -15224,7 +16348,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
+		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR10V")
 		(at 287.02 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15241,7 +16365,7 @@
 				)
 			)
 		)
-		(property "Value" "390 mΩ"
+		(property "Value" "100 mΩ"
 			(at 287.02 153.67 0)
 			(effects
 				(font
@@ -15271,7 +16395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 390 mΩ 1% 0612"
+		(property "Description" "RES SMD 100 mΩ 1% 0612"
 			(at 287.02 167.64 0)
 			(show_name yes)
 			(effects
@@ -15315,7 +16439,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-B2BFR39V"
+		(property "MPN" "ERJ-B2CFR10V"
 			(at 287.02 177.8 0)
 			(show_name yes)
 			(effects
@@ -15337,7 +16461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-B2BF"
+		(property "Series" "ERJ-B2CF"
 			(at 287.02 182.88 0)
 			(show_name yes)
 			(effects
@@ -15348,7 +16472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-B2BFR39V"
+		(property "Symbol Name" "R_ERJ-B2CFR10V"
 			(at 287.02 185.42 0)
 			(show_name yes)
 			(effects
@@ -15381,7 +16505,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR10V"
 			(at 287.02 193.04 0)
 			(show_name yes)
 			(effects
@@ -16410,7 +17534,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
+		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR24V")
 		(at 287.02 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16427,7 +17551,7 @@
 				)
 			)
 		)
-		(property "Value" "24 mΩ"
+		(property "Value" "240 mΩ"
 			(at 287.02 113.03 0)
 			(effects
 				(font
@@ -16457,7 +17581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 24 mΩ 1% 0612"
+		(property "Description" "RES SMD 240 mΩ 1% 0612"
 			(at 287.02 127 0)
 			(show_name yes)
 			(effects
@@ -16501,7 +17625,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-B2CFR024V"
+		(property "MPN" "ERJ-B2BFR24V"
 			(at 287.02 137.16 0)
 			(show_name yes)
 			(effects
@@ -16523,7 +17647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-B2CF"
+		(property "Series" "ERJ-B2BF"
 			(at 287.02 142.24 0)
 			(show_name yes)
 			(effects
@@ -16534,7 +17658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-B2CFR024V"
+		(property "Symbol Name" "R_ERJ-B2BFR24V"
 			(at 287.02 144.78 0)
 			(show_name yes)
 			(effects
@@ -16567,7 +17691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR24V"
 			(at 287.02 152.4 0)
 			(show_name yes)
 			(effects
@@ -17394,7 +18518,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR39V")
+		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BFR62V")
 		(at 287.02 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17411,7 +18535,7 @@
 				)
 			)
 		)
-		(property "Value" "390 mΩ"
+		(property "Value" "620 mΩ"
 			(at 287.02 72.39 0)
 			(effects
 				(font
@@ -17441,7 +18565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 390 mΩ 1% 0612"
+		(property "Description" "RES SMD 620 mΩ 1% 0612"
 			(at 287.02 86.36 0)
 			(show_name yes)
 			(effects
@@ -17485,7 +18609,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-B2BFR39V"
+		(property "MPN" "ERJ-B2BFR62V"
 			(at 287.02 96.52 0)
 			(show_name yes)
 			(effects
@@ -17518,7 +18642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-B2BFR39V"
+		(property "Symbol Name" "R_ERJ-B2BFR62V"
 			(at 287.02 104.14 0)
 			(show_name yes)
 			(effects
@@ -17551,7 +18675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR39V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BFR62V"
 			(at 287.02 111.76 0)
 			(show_name yes)
 			(effects
@@ -17786,7 +18910,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_PRL1632-_DATA_BASE:R_PRL1632-R016-F-T1")
+		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR16V")
 		(at 287.02 99.06 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17803,7 +18927,7 @@
 				)
 			)
 		)
-		(property "Value" "16 mΩ"
+		(property "Value" "160 mΩ"
 			(at 287.02 105.41 0)
 			(effects
 				(font
@@ -17822,7 +18946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.susumu.co.jp/common/pdf/n_catalog_partition07_en.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDN0000/AOA0000C325.pdf"
 			(at 287.02 106.68 0)
 			(show_name yes)
 			(effects
@@ -17833,7 +18957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 16 mΩ 1% 0612"
+		(property "Description" "RES SMD 160 mΩ 1% 0612"
 			(at 287.02 109.22 0)
 			(show_name yes)
 			(effects
@@ -17877,7 +19001,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "PRL1632-R016-F-T1"
+		(property "MPN" "ERJ-B2CFR16V"
 			(at 287.02 119.38 0)
 			(show_name yes)
 			(effects
@@ -17888,7 +19012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Susumu"
+		(property "Manufacturer" "Panasonic"
 			(at 287.02 121.92 0)
 			(show_name yes)
 			(effects
@@ -17899,7 +19023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "PRL1632-"
+		(property "Series" "ERJ-B2CF"
 			(at 287.02 124.46 0)
 			(show_name yes)
 			(effects
@@ -17910,7 +19034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_PRL1632-R016-F-T1"
+		(property "Symbol Name" "R_ERJ-B2CFR16V"
 			(at 287.02 127 0)
 			(show_name yes)
 			(effects
@@ -17943,7 +19067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/PRL1632-R016-F-T1"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR16V"
 			(at 287.02 134.62 0)
 			(show_name yes)
 			(effects
@@ -18220,7 +19344,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RESISTORS_ERJ-B2CF_DATA_BASE:R_ERJ-B2CFR024V")
+		(lib_id "RESISTORS_ERJ-B2BF_DATA_BASE:R_ERJ-B2BF1R6V")
 		(at 287.02 35.56 0)
 		(mirror x)
 		(unit 1)
@@ -18228,6 +19352,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "bb07c717-bba3-45c3-bacd-5ed8c61baca4")
 		(property "Reference" "R18"
 			(at 287.02 29.21 0)
@@ -18237,7 +19362,7 @@
 				)
 			)
 		)
-		(property "Value" "24 mΩ"
+		(property "Value" "1.6 Ω"
 			(at 287.02 31.75 0)
 			(effects
 				(font
@@ -18267,7 +19392,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 24 mΩ 1% 0612"
+		(property "Description" "RES SMD 1.6 Ω 1% 0612"
 			(at 287.02 25.4 0)
 			(show_name yes)
 			(effects
@@ -18311,7 +19436,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ERJ-B2CFR024V"
+		(property "MPN" "ERJ-B2BF1R6V"
 			(at 287.02 15.24 0)
 			(show_name yes)
 			(effects
@@ -18333,7 +19458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Series" "ERJ-B2CF"
+		(property "Series" "ERJ-B2BF"
 			(at 287.02 10.16 0)
 			(show_name yes)
 			(effects
@@ -18344,7 +19469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Symbol Name" "R_ERJ-B2CFR024V"
+		(property "Symbol Name" "R_ERJ-B2BF1R6V"
 			(at 287.02 7.62 0)
 			(show_name yes)
 			(effects
@@ -18377,7 +19502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2CFR024V"
+		(property "Trustedparts Search" "https://www.trustedparts.com/en/search/ERJ-B2BF1R6V"
 			(at 287.02 0 0)
 			(show_name yes)
 			(effects

@@ -157,6 +157,18 @@ The following images showcase the PCB design from different perspectives:
 ![Bottom View](minimal_ltc4296-1/docs/pictures/3_minimal_ltc4296-1_bottom.png)
 *Bottom View of the PCB*
 
+![Left View](minimal_ltc4296-1/docs/pictures/4_minimal_ltc4296-1_left.png)
+*Left View of the PCB*
+
+![Right View](minimal_ltc4296-1/docs/pictures/5_minimal_ltc4296-1_right.png)
+*Right View of the PCB*
+
+![Front View](minimal_ltc4296-1/docs/pictures/6_minimal_ltc4296-1_front.png)
+*Front View of the PCB*
+
+![Back View](minimal_ltc4296-1/docs/pictures/7_minimal_ltc4296-1_back.png)
+*Back View of the PCB*
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
